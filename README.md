@@ -37,10 +37,20 @@ A study protocol for **dynamic, competing-risks prediction of confirmed VARC-3 m
 
 ---
 
+## Installation
+
+Python 3.12 and the packages in `requirements.txt` (tested versions in its comments). No GPU is needed; the analysis uses many CPU cores when available.
+
+```bash
+python3.12 -m venv .venv && source .venv/bin/activate      # or: conda create -n avr python=3.12 && conda activate avr
+pip install -r requirements.txt
+```
+
+`report/main.pdf` is rebuilt with a TeX Live installation that includes `biber` (`report/build.sh`); the PDF is committed, so this is optional.
+
 ## Reproduce
 
 ```bash
-# Python env with numpy, pandas, scipy, scikit-learn, lifelines, statsmodels, shap, matplotlib, pyarrow
 cd notebooks/km_reconstruct && python run_reconstruction.py --figures kermen_fig2 kermen_fig4a notion_fig3 wakami_fig1 --strict
 cd ../simulator && python cli.py calibrate && python cli.py validate && python cli.py generate --n 10000 --seed 1
 cd ../analysis && python run_all.py all && python run_all.py explain && python run_all.py policy \
