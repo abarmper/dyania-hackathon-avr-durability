@@ -3,7 +3,7 @@
 **Challenge:** Build a study — using machine learning, a statistical model, or whatever approach you prefer — proposing a protocol to predict aortic valve durability in patients with a bioprosthetic aortic valve replacement.
 **Event:** September 15–17, 2026 (3 days)
 **Team size:** 2–3 ML engineers
-**Team:** `[cardioNTUA]`
+**Team:** `[Team_Name]`
 **Members:** `[Name — Role]`, `[Name — Role]`, `[Name — Role]`
 
 ---
