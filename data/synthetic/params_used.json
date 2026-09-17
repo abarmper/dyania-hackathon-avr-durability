@@ -1,0 +1,367 @@
+{
+ "cohort": {
+  "n": 10000,
+  "savr_frac": 0.55,
+  "implant_year_min": 2010.0,
+  "implant_year_max": 2021.0,
+  "censor_year": 2026.71,
+  "seed": 1
+ },
+ "baseline": {
+  "age_savr": [
+   70.0,
+   9.0,
+   40.0,
+   90.0
+  ],
+  "age_tavr": [
+   78.0,
+   6.0,
+   60.0,
+   95.0
+  ],
+  "female_frac": 0.45,
+  "height_cm": {
+   "M": [
+    175.0,
+    7.0
+   ],
+   "F": [
+    162.0,
+    7.0
+   ]
+  },
+  "bmi": [
+   29.0,
+   5.0,
+   16.0,
+   55.0
+  ],
+  "diabetes": 0.27,
+  "ckd": 0.11,
+  "dialysis_given_ckd": 0.12,
+  "smoking": 0.15,
+  "af": {
+   "SAVR": 0.35,
+   "TAVR": 0.25
+  },
+  "anticoag_if_af": 0.85,
+  "anticoag_if_no_af": 0.1,
+  "doac_from_year": 2015.0,
+  "postop_vka_savr": 0.2,
+  "lvef": [
+   59.0,
+   10.0,
+   20.0,
+   80.0
+  ],
+  "svi": [
+   42.0,
+   4.0,
+   30.0,
+   58.0
+  ],
+  "svi_per_lvef_point": 0.2,
+  "ejection_time_s": [
+   0.3,
+   0.015
+  ],
+  "q_clip": [
+   150.0,
+   450.0
+  ],
+  "reference_missing_frac": 0.3,
+  "ar_ref_probs": [
+   0.85,
+   0.14,
+   0.01
+  ],
+  "pvl_ref_probs": {
+   "SAVR": [
+    0.95,
+    0.05,
+    0.0
+   ],
+   "TAVR_early": [
+    0.5,
+    0.4,
+    0.1
+   ],
+   "TAVR_late": [
+    0.65,
+    0.32,
+    0.03
+   ]
+  },
+  "lvot_bias_sd": 0.06
+ },
+ "physics": {
+  "gorlin_c": 0.0005095567365948362,
+  "c_model": {
+   "Perimount Magna Ease": 0.00040972149524753714,
+   "Perimount (classic)": 0.0003070974959117818,
+   "Inspiris Resilia": 0.0002905350523384378,
+   "Trifecta": 0.0002935754862692248,
+   "Mitroflow": 0.00021879833128252827,
+   "Epic": 0.0002989256626770675,
+   "Mosaic": 0.0003662789104893924,
+   "Sapien XT": 0.0003184858979314732,
+   "Sapien 3": 0.00035641060578333933,
+   "CoreValve": 0.00034384889459991965,
+   "Evolut R": 0.000300696560122263,
+   "New SAVR valve": 0.00029011251734737574,
+   "New THV": 0.00029957383292087043
+  },
+  "c_size": {
+   "Perimount Magna Ease|19": 0.0003558398622648717,
+   "Perimount Magna Ease|21": 0.0003708732471750589,
+   "Perimount Magna Ease|23": 0.00040972149524753714,
+   "Perimount Magna Ease|25": 0.0004399927510019886,
+   "Perimount Magna Ease|27": 0.00048195010564563615,
+   "Perimount (classic)|19": 0.00041369567075144495,
+   "Perimount (classic)|21": 0.0002656064163431438,
+   "Perimount (classic)|23": 0.00035755919224365385,
+   "Perimount (classic)|25": 0.0003070974959117818,
+   "Perimount (classic)|27": 0.00022995763766486357,
+   "Inspiris Resilia|19": 0.00026121233130414935,
+   "Inspiris Resilia|21": 0.0002441420158382499,
+   "Inspiris Resilia|23": 0.0002905350523384378,
+   "Inspiris Resilia|25": 0.00035775505146882613,
+   "Inspiris Resilia|27": 0.00047235509566960596,
+   "Trifecta|19": 0.00026363396847033956,
+   "Trifecta|21": 0.0002638732127749098,
+   "Trifecta|23": 0.0002939196074124616,
+   "Trifecta|25": 0.0003174461447641157,
+   "Trifecta|27": 0.000293231365125988,
+   "Trifecta|29": 0.0003276888595606412,
+   "Mitroflow|19": 0.00019440793926422394,
+   "Mitroflow|21": 0.00018757817484369493,
+   "Mitroflow|23": 0.00021879833128252827,
+   "Mitroflow|25": 0.00025276806274784804,
+   "Mitroflow|27": 0.000281884731064618,
+   "Epic|19": 0.0002110056709437474,
+   "Epic|21": 0.00021404881720061316,
+   "Epic|23": 0.0002967482466561782,
+   "Epic|25": 0.0003011030786979568,
+   "Epic|27": 0.00032861384842999174,
+   "Epic|29": 0.0005193006279886996,
+   "Mosaic|19": 0.00024511678642101796,
+   "Mosaic|21": 0.00028229636709604613,
+   "Mosaic|23": 0.0003375444680848121,
+   "Mosaic|25": 0.00039501335289397277,
+   "Mosaic|27": 0.00042771531841820425,
+   "Mosaic|29": 0.0005445329965154717,
+   "Sapien XT|23": 0.00024412477081784819,
+   "Sapien XT|26": 0.0003184858979314732,
+   "Sapien XT|29": 0.00041811612805787025,
+   "Sapien 3|20": 0.00029576027000006213,
+   "Sapien 3|23": 0.00033039720387265684,
+   "Sapien 3|26": 0.00038242400769402177,
+   "Sapien 3|29": 0.00039838689789439206,
+   "CoreValve|23": 0.00019334534002752842,
+   "CoreValve|26": 0.00028486265305972423,
+   "CoreValve|29": 0.000402835136140115,
+   "CoreValve|31": 0.0005252137764931654,
+   "Evolut R|23": 0.00020386678537916744,
+   "Evolut R|26": 0.0002444663159409018,
+   "Evolut R|29": 0.0003569268043036242,
+   "Evolut R|34": 0.00051510903112501,
+   "New SAVR valve|19": 0.0002602625760592574,
+   "New SAVR valve|21": 0.0002444086011061719,
+   "New SAVR valve|23": 0.00029011251734737574,
+   "New SAVR valve|25": 0.00036072507137336257,
+   "New SAVR valve|27": 0.00047557255344072284,
+   "New THV|23": 0.0002028620714117914,
+   "New THV|26": 0.00024226782556129855,
+   "New THV|29": 0.0003568798402804423,
+   "New THV|34": 0.0005157499346638578
+  },
+  "peak_over_mean": [
+   1.75,
+   0.1
+  ],
+  "eoa_floor": 0.4,
+  "q_ref_ml_s": 280.0,
+  "eoa_flow_exponent": 0.35
+ },
+ "onset": {
+  "shape": {
+   "perimount": 5.59591321687893,
+   "trifecta": 0.92221865256458,
+   "porcine": 1.2130613194252668,
+   "new_savr": 5.59591321687893,
+   "balloon": 2.0,
+   "self_expanding": 2.499765635985985,
+   "new_thv": 2.499765635985985
+  },
+  "scale": {
+   "perimount": 10.493234602364305,
+   "trifecta": 31.64430129026073,
+   "porcine": 12.0,
+   "new_savr": 10.493234602364305,
+   "balloon": 52.67363807102024,
+   "self_expanding": 6.976788581144569,
+   "new_thv": 6.976788581144569
+  },
+  "shift": {
+   "perimount": 0.0,
+   "trifecta": 0.0,
+   "porcine": 0.0,
+   "new_savr": 0.0,
+   "balloon": 0.0,
+   "self_expanding": 0.0,
+   "new_thv": 0.0
+  },
+  "calibration_age": {
+   "perimount": 70.6,
+   "trifecta": 78.0,
+   "porcine": 79.0,
+   "new_savr": 70.6,
+   "balloon": 78.0,
+   "self_expanding": 79.2,
+   "new_thv": 79.2
+  },
+  "hr_age_per_year_savr": 0.951,
+  "hr_age_per_year_thv": 0.97,
+  "hr_smoking": 3.5,
+  "hr_diabetes": 1.33,
+  "hr_bmi_per_unit": 1.08,
+  "bmi_centre": 29.0,
+  "hr_ckd": 1.3,
+  "hr_no_anticoag_year1_tavr": 1.6,
+  "hr_vka_longterm_savr": 1.2,
+  "hr_severe_ppm_residual": 1.3,
+  "hr_ref_mpg_ge15_residual": 1.6,
+  "hr_thv_le23_residual": 2.5,
+  "hr_prior_thrombosis": 1.5,
+  "hr_female": 1.0,
+  "p_regurgitant": {
+   "perimount": 0.25,
+   "trifecta": 0.6,
+   "porcine": 0.3,
+   "new_savr": 0.25,
+   "balloon": 0.05,
+   "self_expanding": 0.05,
+   "new_thv": 0.05
+  }
+ },
+ "trajectory": {
+  "drift_per_year": 0.011,
+  "tau_median_y": {
+   "perimount": 7.5,
+   "trifecta": 6.0,
+   "porcine": 7.5,
+   "new_savr": 7.5,
+   "balloon": 10.0,
+   "self_expanding": 10.0,
+   "new_thv": 10.0
+  },
+  "tau_sigma": 0.4,
+  "loss_fraction": {
+   "perimount": [
+    0.92,
+    0.06
+   ],
+   "trifecta": [
+    0.92,
+    0.06
+   ],
+   "porcine": [
+    0.92,
+    0.06
+   ],
+   "new_savr": [
+    0.92,
+    0.06
+   ],
+   "balloon": [
+    0.4,
+    0.06
+   ],
+   "self_expanding": [
+    0.4,
+    0.06
+   ],
+   "new_thv": [
+    0.4,
+    0.06
+   ]
+  },
+  "ar_severe_after_median_y": 2.0,
+  "ar_severe_after_sigma": 0.5,
+  "regurgitant_eoa_factor": 0.95,
+  "flow_slope_sd_per_year": 0.03
+ },
+ "thrombosis": {
+  "on": true,
+  "p_year1": {
+   "SAVR": 0.03,
+   "TAVR": 0.08
+  },
+  "anticoag_factor": 0.5,
+  "onset_window_y": [
+   0.05,
+   1.0
+  ],
+  "duration_y": [
+   0.25,
+   0.75
+  ],
+  "eoa_factor": 0.75
+ },
+ "noise": {
+  "sigma_flow": 0.055,
+  "sigma_lvot_vti": 0.08,
+  "sigma_cw": 0.045,
+  "sigma_lvot_diam": 0.05,
+  "sigma_flow_ref_extra": 0.08,
+  "flow_ref_bias": 0.05,
+  "ar_misclass": 0.03,
+  "eoa_missing": 0.08,
+  "dvi_missing": 0.05,
+  "lvef_missing": 0.05
+ },
+ "visits": {
+  "reference_time_y": 0.08,
+  "max_years": 16,
+  "jitter_sd_y": 0.125,
+  "miss_by_year": [
+   0.093,
+   0.145,
+   0.224,
+   0.35
+  ],
+  "miss_saturation": 0.45,
+  "miss_mult_well": 1.3,
+  "miss_mult_symptomatic": 0.6,
+  "symptom_h0": 0.25,
+  "symptom_power": 2.0,
+  "background_echo_rate": 0.02,
+  "symptom_echo_delay_y": 0.04,
+  "max_symptom_echoes": 3
+ },
+ "death": {
+  "a": 0.0315121300571458,
+  "b_per_year": 0.08157998699242285,
+  "age_ref": 75.0,
+  "hr_lvef_per_point": 0.974,
+  "hr_dialysis": 2.0,
+  "hr_tavr_era": 1.8,
+  "tavr_era_until": 2018.0,
+  "frailty_var": 0.6
+ },
+ "events": {
+  "endocarditis_rate": 0.0075,
+  "endocarditis_explant_frac": 0.6,
+  "endocarditis_death_frac": 0.25,
+  "reint_h_stage2_symptomatic": 0.05,
+  "reint_h_stage3": 1.5,
+  "reint_age_slope": -0.3,
+  "viv_logistic": [
+   75.0,
+   0.25
+  ],
+  "viv_min_year": 2012.0,
+  "ltfu_rate": 0.01
+ }
+}

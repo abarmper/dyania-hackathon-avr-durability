@@ -1,0 +1,7 @@
+model,evaluated_against,AUC_5y,C_5y
+trained_on_latent_crossing,latent_crossing,0.8822717626018869,0.8479432205165489
+trained_on_latent_crossing,confirmed_label,0.891822196809448,0.8625304458838933
+trained_on_latent_crossing,oracle_label,0.9000462238588606,
+trained_on_confirmed_label,latent_crossing,0.8630206060799764,0.8351844979791937
+trained_on_confirmed_label,confirmed_label,0.9251055753057009,0.9193737921650137
+trained_on_confirmed_label,oracle_label,0.9137590870927557,

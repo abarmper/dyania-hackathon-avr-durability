@@ -1,0 +1,295 @@
+
+JOURNAL INFORMATION
+==============================
+NLM Title Abbreviation: Ann Thorac Surg
+Journal ID: Ann. Thorac. Surg.
+NLM Journal ID: 15030100R
+
+The Annals of thoracic surgery
+
+ISSN: 0003-4975
+EISSN: 1552-6259
+
+ARTICLE INFORMATION
+==============================
+PMCID: PMC5132179
+Article ID: NIHMS819351
+PMID: 25662439
+DOI: 10.1016/j.athoracsur.2014.10.070
+Article ID: NIHMS819351
+Article ID: NIHPA819351
+Article version: 1
+Subjects: Article
+
+Long-Term Durability of Bioprosthetic Aortic Valves: Implications From 12,569 Implants
+
+Johnston Douglas R. MD
+Soltesz Edward G. MD
+Vakil Nakul MD
+Rajeswaran Jeevanantham PhD
+Roselli Eric E. MD
+Sabik Joseph F. III MD
+Smedira Nicholas G. MD
+Svensson Lars G. MD, PhD
+Lytle Bruce W. MD
+Blackstone Eugene H. MD
+Department of Thoracic and Cardiovascular Surgery, Heart and Vascular Institute, and Department of Quantitative Health Sciences, Research Institute, Cleveland Clinic, Cleveland, Ohio
+Address correspondence to Dr Johnston, Department of Thoracic and Cardiovascular Surgery, Cleveland Clinic, 9500 Euclid Ave/Desk J4–1, Cleveland, OH 44195; johnstd3@ccf.org
+Electronic publication date: 2015 Feb 4
+Print publication date: 2015 Apr
+Volume: 99
+Issue: 4
+First page: 1239
+Last page: 1247
+Author manuscript; available in PMC: 2016 Dec 1
+
+License: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+==============================
+Background
+
+Increased life expectancy and younger patients’ desire to avoid lifelong anticoagulation requires a better understanding of bioprosthetic valve failure. This study evaluates risk factors associated with explantation for structural valve deterioration (SVD) in a long-term series of Carpentier-Edwards PERIMOUNT aortic valves (AV).
+
+Methods
+
+From June 1982 to January 2011, 12,569 patients underwent AV replacement with Edwards Lifesciences Carpentier-Edwards PERIMOUNT stented bovine pericardial prostheses, models 2700PM (n = 310) or 2700 (n = 12,259). Mean age was 71 ± 11 years (range, 18 to 98 years). 93% had native AV disease, 48% underwent concomitant coronary artery bypass grafting, and 26% had additional valve surgery. There were 81,706 patient-years of systematic follow-up data available for analysis. Demographics, intraoperative variables, and 27,386 echocardiographic records were used to identify risks for explant for SVD and assess longitudinal changes in transprosthesis gradients using time-varying covariable analyses.
+
+Results
+
+Three hundred fifty-four explants were performed, with 41% related to endocarditis and 44% to SVD. Actuarial estimates of explant for SVD at 10 and 20 years were 1.9% and 15% overall, respectively, and in patients younger than 60 years, 5.6% and 46%, respectively. Younger age (p < 0.0001), lipid-lowering drugs (p = 0.002), prosthesis–patient mismatch (p = 0.001), and higher postoperative peak and mean AV gradients were associated with explant for SVD (p < 0.0001). The effect of gradient on SVD was greatest in patients younger than 60 years.
+
+Conclusions
+
+Durability of the Carpentier-Edwards PERIMOUNT aortic valve is excellent even in younger patients. Explant for SVD is related to gradient at implantation, especially in younger patients. Strategies to reduce early postoperative AV gradients, such as root enlargement or more efficient prostheses, should be considered.
+
+The American College of Cardiology/American Heart Association Practice Guidelines [1] suggest bioprosthetic aortic valve replacement (AVR) is a reasonable option for patients older than 65 years and for selected patients younger than 65 years according to patient preference. However, routine use of bioprosthetic valves in younger patients is controversial. Patient preference to avoid anticoagulation, decreasing operative risks for valve reoperation, and the availability of transcatheter valve-in-valve techniques have created a need to reexamine bioprosthetic valve durability, particularly in young patients.
+
+We began using the Carpentier-Edwards (C-E) stented bovine pericardial aortic bioprosthesis (PERIMOUNT; Edwards Lifesciences, Irvine, CA) in 1982 as part of its premarket evaluation, reporting its excellent durability at 17 years [2]. Recent longitudinal studies confirm the durability of this and other stented pericardial prostheses [3–5]. However, few data are available regarding risk factors for structural valve deterioration (SVD) other than age [2, 6]. Thus, the purpose of this study was to identify risk factors associated with explantation for SVD after 30 years’ experience with the C-E PERIMOUNT aortic valve.
+
+Patients and Methods
+
+Patients
+
+From June 1982 to January 2011, 12,569 patients underwent AVR using PERIMOUNT bioprosthesis models 2700PM (n = 310) or 2700 (n = 12,259) at the Cleveland Clinic. In 3,319 patients (26%), AVR with this prosthesis was an isolated procedure; in 9,250 (74%), it was combined with concomitant procedures, such as coronary artery bypass grafting (48%), thoracic aortic surgery (21%), and mitral valve surgery (20%; Table 1). In 11,741 patients (93%), the native aortic valve was replaced, and this was predominantly for aortic stenosis (n = 8,781; 75%). Prosthesis label size was 19 mm or 21 mm in 4,834 (38%).
+
+Patients were identified and preoperative, operative, and postoperative variables (Appendix 1) were retrieved from the prospective Cleveland Clinic Cardiovascular Information Registry. Use of these data in research was approved by the Institutional Review Board, with patient consent waived.
+
+Mean age of the cohort was 71 years (range, 18 to 98 years); 26% had prior cardiac operations, although the native aortic valve was replaced in 93% (Table 1). Surgical approach was a less invasive upper hemisternotomy in 14%. Postoperative anticoagulation with warfarin sodium was not routinely prescribed.
+
+End Points
+
+The primary end point was time to explant for SVD. Secondary end points were longitudinal echocardiographic measurement of postoperative aortic valve (AV) hemodynamic stability (AV mean and peak gradients [mm Hg], AV regurgitation grade, AV stenosis [AV orifice area], and left ventricular function [ejection fraction]). These were considered in the context of explant for indications other than SVD and mortality before valve explant.
+
+FOLLOW-UP
+
+Systematic follow-up information was obtained from the Cardiovascular Information Registry at 2 years, 5 years, and 5-year intervals for 25 years, with patient consent at each contact. Twenty of the explants (6.5%) were performed at outside hospitals. At one point or another, 1.3% of patients declined consenting for further follow-up; a total of 13% had incomplete follow-up of varying duration. The common closing date was January 1, 2013. Median follow-up was 5.8 years, and 81,706 patient-years of follow-up data were available for analysis. Twenty-five percent of surviving patients were followed up more than 10 years and 5% more than 15 years. Figure E1 illustrates the completeness of follow-up.
+
+ECHOCARDIOGRAPHIC FOLLOW-UP
+
+Postoperative transthoracic echocardiographic reports were used to assess intermediate and long-term changes in echocardiographic variables. Echocardiograms were obtained routinely before discharge and periodically (generally yearly) thereafter at the discretion of referring physicians. A total of 27,386 echocardiographic records were available for 11,138 patients. Postdischarge echocardiograms were obtained for a subset of 5,379 patients (48%) routinely followed up at Cleveland Clinic. Median echocardiographic follow-up time was 1.3 months, with 25% of patients followed up for 2.8 or more years and 5% more than 9.4 years, ranging up to 29 years. Figure E2 illustrates the number of echocardiograms available for review.
+
+Data Analysis
+
+With the prosthesis as the unit of measure [7], explant and each indication for explant, including SVD, were assessed nonparametrically using the Kaplan-Meier method, and the time-varying instantaneous risk of explant (hazard function) was assessed parametrically using a multiphase hazard model [8]. A competing risks analysis was performed considering the mutually exclusive outcomes explant for SVD, endocarditis, or other cause, and death before explant [9].
+
+Temporal trend of repeated-measurements transthoracic echocardiographic data after surgery was analyzed for pattern of change across time. Nonlinear mixed model regression (SAS PROC NLMIXED; SAS Inc, Cary, NC) [10–12] was used to form a temporal decomposition model and to estimate the shaping parameters at each phase.
+
+MULTIVARIABLE RISK-FACTOR ANALYSIS
+
+Factors associated with explant for SVD were identified by machine-learning techniques using 250 bootstrap samples, with the variables listed in Appendix Table 1 and a probability value criterion of 0.05 [13–15]. In assessing the effect of postoperative mean and peak gradients on the risk of SVD, we treated postoperative gradients as time-varying covariables in the hazard model [16]. Sporadic missing values were imputed by fivefold multiple imputation [17].
+
+PRESENTATION
+
+Continuous variables are summarized as mean ± standard deviation, and categorical data as frequencies and percentages. Data were analyzed using SAS software version 9.2 (SAS Inc).
+
+Results
+
+Overall Risk of Prosthesis Explantation
+
+A total of 354 prostheses were explanted during follow-up, 41% related to endocarditis and 44% related to SVD. Diverse causes made up the remaining 14%, with less than 1% attributable to valve thrombosis.
+
+Instantaneous risk of explantation for any cause was characterized by an early decreasing phase of risk followed by a late rising phase (Fig 1A). This overall temporal pattern of risk resulted from different cause-specific time-varying risks of reoperation for endocarditis versus SVD (Fig 1B). There was one phase of risk of explant for SVD that started rising after 5 years and increased sharply 10 years after the procedure.
+
+A total of 5,117 patients died before valve explant. Risk of death before explantation dominated risks of explantation (Fig 2A). Overall 20-year probabilities (in the presence of death) of explantation for SVD, endocarditis, or other reasons were 5.4%, 1.4%, and 1.0%, respectively, with a 76% probability of death before explant (Fig 2B).
+
+Risk Factors for Structural Valve Deterioration
+
+Younger age at implant was associated with higher risk of explant due to SVD (Table 2, Fig 3A). At 10, 15, and 20 years, actuarial estimates of risk for explant for SVD were 5.6% (95% confidence interval [CI], 4.7 to 6.8), 20% (95% CI, 17 to 23), and 45% (95% CI, 39 to 52), respectively, for patients younger than 60 years; 1.5% (95% CI, 1.3 to 1.7), 5.1% (95% CI, 4.4 to 5.8), and 8.1% (95% CI, 6.7 to 9.7) for patients 60 to 80 years old; and 0% for patients older than 80 years (no events were observed for those older than 80 years; Fig 3B).
+
+Prosthesis–Patient Mismatch and Structural Valve Deterioration
+
+Labeled valve size was not associated with long-term risk of explant for SVD; however, when post-AVR gradient is ignored, prosthesis–patient mismatch, defined as a small geometric prosthetic valve area compared with normal area based on body surface area (z value), was associated with increased risk of explant for SVD (Fig 4).
+
+Aortic Valve Regurgitation, Gradient, and Explantation for Structural Valve Deterioration
+
+Overall, at 15 years, the percentage of patients in aortic regurgitation grades 0 (none), 1+ (mild), 2+ (moderate), and 3–4+ (severe) was 66%, 23%, 6%, and 5%, respectively. A gradual increase in regurgitation during the follow-up period was particularly pronounced in patients with eventual explant for SVD (Fig 5).
+
+Peak gradient rose from 26 mm Hg at 3 months after surgery to 33 mm Hg by year 15; mean gradient increased from 14 mm Hg to 20 mm Hg by year 15. Aortic valve gradients showed early variability and, subsequently, a gradual late rising phase that was higher in patients who eventually underwent explant for SVD (Fig 6, Table 2).
+
+Relationship Among Age, Gradient, and Explantation for Structural Valve Deterioration
+
+The effect of postoperative valve gradient on explant for SVD was most prominent in younger patients (Fig 7). Higher valve gradients were not associated with increased risk of explant for SVD in patients older than 80 years, whereas a 10-mm Hg difference in postoperative peak gradient was associated with a more than twofold increase in 20-year risk of explant for SVD in younger patients.
+
+Comment
+
+Principal Findings
+
+Aortic valve replacement with the PERIMOUNT bioprosthesis is associated with long-lasting durability. In older patients, explantation for SVD is rare and unlikely to be affected by valve size or implant technique. Structural valve deterioration is more common in younger patients; however, durability in those younger than 60 years is good, with 55% freedom from explant for SVD at 20 years. In younger patients, severe prosthesis–patient mismatch was associated with increased risk of explant for SVD; in addition, higher early postoperative AV gradients, even in the absence of severe mismatch, were associated with increased risk of eventual explant for SVD.
+
+Prosthesis Explantation for Structural Valve Deterioration
+
+The most common mode of failure of PERIMOUNT bioprostheses is cusp calcification [18]. Two recent, large long-term studies of this valve confirmed that SVD was the most common reason for valve explantation, with endocarditis the second most common cause, consistent with our findings [3, 4]. Other reasons for explant, such as perivalvular leak, were rare. McClure and colleagues [3], in their report of 17-year follow-up of 1,000 patients with a mean age of 74 years, found that freedom from reoperation at 15 years was 82%. Forcillo and colleagues [4], in a series of 2,405 patients, report 67% 20-year freedom from SVD. Although this study confirmed the excellent long-term durability of the PERIMOUNT bioprosthesis with respect to SVD, it is notable that, overall, risk of death before explant was substantially greater than that of explant for SVD.
+
+Age and Explant for Structural Valve Deterioration
+
+In every previous study of bioprosthetic valve outcomes, age at implantation was the most important determinant of valve longevity. Banbury and colleagues [2], in their evaluation of the premarket C-E valve cohort of 267 patients, identified an exponential relationship between younger age and explant for SVD. Forcillo and colleagues [4] found freedom from reoperation for patients younger than 60 years to be 60%, compared with 90% for those 60 to 70 years. Avoidance of reoperation has been the major impetus to implant mechanical valves in younger patients; however, decreasing mortality for cardiac reoperation and development of valve-in-valve transcatheter technology have altered this perception to some extent. Many younger patients who prefer to avoid lifelong anticoagulation may find the explant for SVD risk reported in our study acceptable.
+
+This study also confirms the overall infrequency of explant for SVD. We found that the cumulative incidences of explant for endocarditis and SVD were 1.2% and 1.0% at 10 years and 1.4% and 5.4% at 20 years, respectively. Cumulative incidence accounts for the competing risk of death before explantation. Because occurrence of death before explant was high—46% at 10 years and 76% at 20 years—one would accordingly expect explant for SVD to be low, ie, older patients were not living long enough to get SVD. An alternative explanation is that surgeons are reluctant to subject elderly patients to a reoperation; valve-in-valve transcatheter AVR may reveal the extent of this reluctance.
+
+Valve Size, Transvalvular Gradient, and Explant for Structural Valve Deterioration
+
+Because transvalvular gradient is an essential component of decision-making to reoperate for SVD, we sought to understand the relationship between valve size, transvalvular gradients with time, and SVD. Prosthesis–patient mismatch affects survival and left ventricular mass regression [19]. Mihaljevic and colleagues [20] showed this to be an age-dependent effect, with younger patients having worse outcomes with increasing degrees of mismatch, and older patients having similar outcomes regardless of mismatch. In a study of 564 patients, among whom 40 exhibited echocardiographic evidence of SVD, Flameng and colleagues [21] demonstrated the relationship between prosthesis–patient mismatch and small valve size with echocardiographic diagnosis of stenosis-type SVD. Although we show a similar effect of prosthesis–patient mismatch on explant for SVD in younger patients when postoperative transprosthesis gradient is not included in the multivariable model, valve gradient dominates valve size.
+
+The decision to reoperate for SVD depends on a complex interplay between hemodynamics, echocardiographic gradients, age, patient symptoms, and real or perceived risk of reoperation. Thus, some patients with elevated gradients secondary to cusp calcification will not undergo reoperation. The number of patients with mean gradients greater than 40 mm Hg or severe prosthesis aortic regurgitation who did not undergo reoperation was small (268), but illustrates that reoperation is an imperfect surrogate for SVD. We found that gradients increased slowly with time for the whole patient group, consistent with previous studies [22]. Of particular importance, however, is that for patients with the highest initial gradients early after AVR, risk of explant for SVD rose exponentially faster.
+
+Strengths and Limitations
+
+The principal limitation of this study is the selection of patients and timing of echocardiographic follow-up. Echocardiograms were available for 10,160 of 12,569 implants (81%), but most were performed before hospital discharge. The majority of follow-up echocardiograms were obtained from patients routinely followed at Cleveland Clinic. Previous studies have shown that these were primarily for surveillance and only occasionally performed for clinical indications [16], although it is possible that patients who underwent explant for SVD were more symptomatic and more likely to seek medical attention that resulted in a nonroutine echocardiogram. Patients who died during follow-up may have had unrecognized SVD; no systematic autopsy data are available. These limitations may be mitigated by the very large sample size, with 27,386 echocardiograms extending for 2 decades beyond surgery. Indeed, there was no observed difference in the trend of AV gradient between patients who had long-term echocardiographic follow-up and the overall cohort (Fig E2). This analysis was able to demonstrate a relationship between elevated postoperative transvalvular gradients and explantation for SVD. Echocardiograms during the study period did not routinely report more complex echocardiographic measurements such as strain. Of note, we do not currently have data on the relationship between root enlargement, postoperative gradient, and SVD. Work is ongoing to identify this subgroup of patients. The relationship between postoperative gradient and survival was evaluated in an earlier study [16].
+
+Clinical Implications
+
+The 2006 ACC/AHA Practice Guidelines for managing patients with valvular heart disease suggest considering bioprosthetic aortic valves for younger patients in limited circumstances, such as intolerance to anticoagulation or desire for pregnancy [1]. Controversy remains regarding use of bioprosthetic aortic valves in the broader population of younger patients who wish to avoid anticoagulation for lifestyle reasons and are willing to accept the higher risk of reoperation. In the face of mounting evidence that earlier operation for aortic stenosis is beneficial in terms of survival [16, 20], need for anticoagulation for mechanical valves remains a barrier to early operation. Our findings suggest that long-term durability of the C-E valve is better than expected in younger patients. This finding, combined with a risk of aortic valve reoperation as low as 1% in experienced centers, suggests that a strategy of early operation with bioprosthetic valves, routine surveillance echocardiography, and planned reoperation is reasonable in young patients wishing to avoid anticoagulation.
+
+For such a strategy to be successful, maximal durability of bioprosthetic valves is required. Our data suggest that strategies aimed at minimizing early postoperative gradients, such as use of valves with better effective orifice area and selective use of root enlargement, may be warranted if these can be accomplished with low risk. If transcatheter valve-in-valve AVR is considered as a second intervention for patients who experience SVD, implanting a small-sized prosthesis at the initial operation that is not amenable to later valve-in-valve placement must be avoided. Further study may allow development of predictive models to assess preoperatively the likelihood of an elevated gradient and to identify patients at particular risk for SVD who would benefit from an alternative surgical strategy.
+
+Conclusions
+
+This study, the largest long-term study of a bioprosthetic aortic valve, confirms the durability of the C-E PERIMOUNT aortic valve in older patients and suggests much better than expected long-term durability in patients younger than 60 years, lending support for recent surgical guidelines [23]. It identifies a novel association between postoperative AV gradient and long-term risk of valve explant for SVD. Valve choice and the decision to enlarge the aortic root should be informed by patient age and the likelihood of prosthesis–patient mismatch. Increased echocardiographic surveillance may be warranted in patients with elevated early postoperative AV gradients. These data provide direction for a surgical strategy in younger patients desiring to avoid the lifelong anticoagulation required for mechanical valves.
+
+Supplementary Material
+
+Supplement
+
+The nonlinear mixed-effects models were developed with support from NIH grant 1R01HL103552-01A1, Ancillary Comparative Effectiveness of Atrial Fibrillation Ablation Surgery.
+
+Fig 1 Instantaneous time-varying risk (hazard function) of prosthetic valve explantation. Solid lines depict parametric estimates of risk for explants enclosed within a 68% confidence band equivalent to ±1 standard error. (A) Overall time-varying risk for explant for any reason. Number of patients remaining at risk is given below the horizontal axis. (B) Cause-specific time-varying risk for explant. (SVD = structural valve deterioration.)
+
+Fig 2 Competing risks of structural valve deterioration (SVD), explantation for other indications, and death before explant of a stented pericardial aortic valve prosthesis. Solid lines represent point estimates enclosed within a 68% confidence band equivalent to ±1 standard error. (A) Instantaneous risk of competing events. (B) Cumulative incidence of each competing risk. Vertical bars represent 68% confidence limits.
+
+Fig 3 Age and probability of explant owing to structural valve deterioration (SVD). (A) Nomogram of age relationship to SVD from multivariable equation based on preoperative variables alone. (B) Patients are grouped according to age range. Each symbol represents an explant, vertical bars are 68% confidence limits, and numbers along the horizontal axis are patients remaining at risk.
+
+Fig 4 Structural valve deterioration (SVD) at 20 years and prosthesis–patient mismatch, represented by the number of standard deviations the geometric size of the aortic prosthesis deviates from normal. Nomogram is based on preoperative variables alone.
+
+Fig 5 Temporal trend of prevalence of aortic regurgitation (AR) grades 3+/4+ after aortic valve replacement stratified by patients with eventual explant for structural valve deterioration (SVD) versus other patients. Solid lines represent parametric estimates of temporal trend of prevalence of AR grade 3+/4+. Symbols represent data grouped without regard to repeated measurements within time frames to provide crude verification of model fit.
+
+Fig 6 Temporal trend of aortic valve (AV) gradients after AV replacement stratified by patients with eventual explant for structural valve deterioration (SVD) versus other patients. Solid lines represent parametric estimates enclosed within 68% bootstrap percentile confidence intervals. Symbols represent data grouped without regard to repeated measurements within time frame to provide crude verification of model fit. (A) AV mean gradient after AV replacement. (B) AV peak gradient after AV replacement.
+
+Fig 7 Explantation for structural valve deterioration (SVD) and postoperative mean transvalvular pressure gradient. (A) Unadjusted relationship between instantaneous risk of explant owing to SVD (left vertical axis) and temporal trend of mean postoperative aortic valve (AV) mean gradient (right vertical axis). Solid lines represent risk of explant for SVD; dashed lines represent 3 patient-specific profiles of postoperative AV mean gradient. Blue lines (top) represent the trend for a patient whose profile is at the 85th percentile. Purple lines (middle) represent the trend for a patient whose profile is at the 50th percentile. Red lines (bottom) represent the trend for a patient whose profile is at the 15th percentile. (B) Explant owing to SVD by 20 years (left vertical axis) according to postoperative AV peak gradient and age at implantation, with dashed lines representing 68% confidence bands. This is a nomogram of the multivariable equation in Table 2.
+
+Table 1 Patient and Procedure Variables (n = 12,569)
+
+Variable	na	No. (%)	
+Demographics			
+ Female	12,569	4,304 (34)	
+Symptoms			
+ NYHA functional class	12,558		
+  I		2,353 (19)	
+  II		6,148 (49)	
+  III		3,217 (26)	
+  IV		   840 (6.7)	
+ Emergency operation	12,569	   143 (1.1)	
+ Prior myocardial infarction	12,569	3,255 (26)	
+Valve disease			
+ Native aortic valve	12,569	11,741 (93)	
+ Native stenosis ± regurgitation	11,741	  8,781 (75)	
+Cardiac comorbidity			
+ Prior cardiac operation	12,568	3,307 (26)	
+ Endocarditis	11,927	   450 (3.8)	
+Noncardiac comorbidity			
+ Peripheral arterial disease	12,569	1,458 (12)	
+ Carotid disease	12,569	5,063 (40)	
+ Prior stroke	12,569	1,278 (10)	
+ Hypertension	12,261	8,956 (73)	
+ Diabetes			
+  Pharmacologically treated	12,253	2,508 (20)	
+  Insulin treated	12,191	   892 (7.3)	
+ Chronic obstructive pulmonary disease	12,261	1,954 (16)	
+ Smoking	12,459	6,881 (55)	
+ Renal dialysis	10,598	   137 (1.3)	
+Concomitant procedures			
+ Any aortic root, ascending aorta, arch replacement	12,569	2,667 (21)	
+ Mitral valve surgery	12,569	2,477 (20)	
+ Tricuspid valve surgery	12,569	   821 (6.5)	
+ Coronary artery bypass grafting	12,569	6,003 (48)	
+ Atrial fibrillation procedure	12,261	   805 (6.6)	
+Surgical incision	12,569		
+ Less invasive		1,056 (15)	
+Prosthesis size (mm)	12,565		
+ 19		1,449 (12)	
+ 21		3,385 (27)	
+ 23		4,145 (33)	
+ 25		2,684 (21)	
+ 27		   783 (6.2)	
+ 29		   119 (0.95)	
+a Patients with data available.
+
+NYHA = New York Heart Association
+
+Table 2 Incremental Risk Factors for Aortic Valve Explant for Structural Valve Deterioration
+
+Factor	Coefficient ± SE	p Value	
+Preoperative factors			
+ Younger age			
+ Age	  0.37 ± 0.075	<0.0001	
+ Agea	−6.2 ± 1.2  	<0.0001	
+ Concomitant TV procedure	0.88 ± 0.39	  0.02	
+Postoperative factors			
+ Discharged on lipid-lowering medication	  2.1 ± 0.18	<0.0001	
+ Higher postoperative AV mean gradient			
+ Mean gradientb	0.93 ± 0.23	<0.0001	
+ Mean gradientc	0.062 ± 0.014	<0.0001	
+ Higher postoperative AV peak gradient			
+ Peak gradientd	  3.9 ± 0.40	<0.0001	
+ Peak gradiente	−0.46 ± 0.074	<0.0001	
+a Exp(age/50), exponential transformation.
+
+b (15/postoperative AV mean gradient), inverse transformation.
+
+c (Postoperative AV mean gradient/15)2, squared transformation.
+
+d (Postoperative AV peak gradient/30), scaled transformation.
+
+e (Postoperative AV peak gradient/30)2, squared transformation.
+
+AV = aortic valve; SE = standard error; TV = tricuspid valve.
+
+Presented at the Fiftieth Annual Meeting of The Society of Thoracic Surgeons, Orlando, FL, Jan 27–29, 2014.
+
+Drs Johnston and Soltesz disclose financial relationships with Edwards Lifesciences and St. Jude Medical; Dr Sabik with Edwards Lifesciences, Sorin, and ValveXchange; Dr Roselli with Edwards Lifesciences; and Drs Blackstone and Rajeswaran with the independent PARTNER Publication Office, supported by Edwards Lifesciences.
+
+The Appendix can be viewed in the online version of this article [http://dx.doi.org/10.1016/j.athoracsur.2014.10.070] on http://www.annalsthoracicsurgery.org.
+
+
+1 Bonow RO Carabello BA Chatterjee K American College of Cardiology; American Heart Association Task Force on Practice Guidelines (Writing Committee to revise the 1998 guidelines for the management of patients with valvular heart disease); Society of Cardiovascular Anesthesiologists ACC/AHA 2006 guidelines for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (writing Committee to Revise the 1998 guidelines for the management of patients with valvular heart disease) developed in collaboration with the Society of Cardiovascular Anesthesiologists endorsed by the Society for Cardiovascular Angiography and Interventions and the Society of Thoracic Surgeons J Am Coll Cardiol 2006 48 e1 148 16875962 10.1016/j.jacc.2006.05.021
+2 Banbury MK Cosgrove DM III White JA Blackstone EH Frater RW Okies JE Age and valve size effect on the long-term durability of the Carpentier-Edwards aortic pericardial bioprosthesis Ann Thorac Surg 2001 72 753 7 11565653 10.1016/s0003-4975(01)02992-7
+3 McClure RS Narayanasamy N Wiegerinck E Late outcomes for aortic valve replacement with the Carpentier-Edwards pericardial bioprosthesis: up to 17-year follow-up in 1,000 patients Ann Thorac Surg 2010 89 1410 6 20417753 10.1016/j.athoracsur.2010.01.046
+4 Forcillo J Pellerin M Perrault LP Carpentier-Edwards pericardial valve in the aortic position: 25-years experience Ann Thorac Surg 2013 96 486 93 23684486 10.1016/j.athoracsur.2013.03.032
+5 Yankah CA Pasic M Musci M Aortic valve replacement with the Mitroflow pericardial bioprosthesis: durability results up to 21 years J Thorac Cardiovasc Surg 2008 136 688 96 18805273 10.1016/j.jtcvs.2008.05.022
+6 Marchand MA Aupart MR Norton R Fifteen-year experience with the mitral Carpentier-Edwards PERIMOUNT pericardial bioprosthesis Ann Thorac Surg 2001 71 Suppl S236 9 11388194 10.1016/s0003-4975(01)02550-4
+7 Bodnar E Blackstone EH Editorial: an ‘actual’ problem: another issue of apples and oranges J Heart Valve Dis 2005 14 706 8 [republished in J Thorac Cardiovasc Surg 2006;131:1–3] 16359047
+8 Blackstone EH Naftel DC Turner ME Jr The decomposition of time-varying hazard into phases, each incorporating a separate stream of concomitant information J Am Stat Assoc 1986 81 615 24
+9 Andersen PK Borgan Ø Gill RD Keiding N Nonparametric estimation Statistical models based on counting processes New York Springer-Verlag 1993 176 331
+10 Diggle PJ Heagerty PJ Liang KY Zeger SL Analysis of longitudinal data 2nd New York Oxford University Press 2002
+11 Rajeswaran J Blackstone EH A multiphase non-linear mixed effects model: an application to spirometry after lung transplantation Stat Methods Med Res 6 11 2014 [Epub ahead of print] 10.1177/0962280214537255 PMC4263696 24919830
+12 Blackstone EH Breaking down barriers: helpful breakthrough statistical methods you need to understand better J Thorac Cardiovasc Surg 2001 122 430 9 11547291 10.1067/mtc.2001.117536
+13 Efron B Tibshirani RJ An introduction to the bootstrap New York Chapman and Hall/CRC 1998
+14 Sauerbrei W Schumacher M A bootstrap resampling procedure for model building: application to the Cox regression model Stat Med 1992 11 2093 109 1293671 10.1002/sim.4780111607
+15 Breiman L Bagging predictors Mach Learn 1996 24 123 40
+16 Beach JM Mihaljevic T Rajeswaran J Ventricular hypertrophy and left atrial dilatation persist and are associated with reduced survival after valve replacement for aortic stenosis J Thorac Cardiovasc Surg 2014 147 362 9.e8 23312984 10.1016/j.jtcvs.2012.12.016
+17 Rubin DB Multiple imputation for non-response in surveys New York Wiley 1987
+18 Roselli EE Smedira NG Blackstone EH Failure modes of the Carpentier-Edwards pericardial bioprosthesis in the aortic position J Heart Valve Dis 2006 15 421 8 16784083
+19 Mohty D Dumesnil JG Echahidi N Impact of prosthesis-patient mismatch on long-term survival after aortic valve replacement: influence of age, obesity, and left ventricular dysfunction J Am Coll Cardiol 2009 53 39 47 19118723 10.1016/j.jacc.2008.09.022
+20 Mihaljevic T Nowicki ER Rajeswaran J Survival after valve replacement for aortic stenosis: implications for decision making J Thorac Cardiovasc Surg 2008 135 1270 9 18544369 10.1016/j.jtcvs.2007.12.042
+21 Flameng W Herregods MC Vercalsteren M Herijgers P Bogaerts K Meuris B Prosthesis-patient mismatch predicts structural valve degeneration in bioprosthetic heart valves Circulation 2010 121 2123 9 20439787 10.1161/CIRCULATIONAHA.109.901272
+22 Banbury MK Cosgrove DM III Thomas JD Hemodynamic stability during 17 years of the Carpentier-Edwards aortic pericardial bioprosthesis Ann Thorac Surg 2002 73 1460 5 12025820 10.1016/s0003-4975(02)03445-8
+23 Svensson LG Adams DH Bonow RO Aortic valve and ascending aorta guidelines for management and quality measures Ann Thorac Surg 2013 95 Suppl S1 66 23688839 10.1016/j.athoracsur.2013.01.083

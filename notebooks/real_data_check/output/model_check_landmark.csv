@@ -1,0 +1,21 @@
+patient,approach,valve_model,size_mm,fu_mpg,fu_dvi,fu_ar,event,years_since_implant,cif_5y,unconfirmed_flag
+Patient_068,SAVR,Perimount Magna Ease,21,43.0,0.18,0.0,1,12.0,0.939,1
+Patient_058,SAVR,Trifecta,27,37.0,0.19,0.0,1,8.0,0.933,1
+Patient_030,SAVR,Trifecta,27,22.0,0.42,1.0,1,13.0,0.925,1
+Patient_089,SAVR,Trifecta,21,9.0,0.35,3.0,1,9.0,0.904,1
+Patient_086,SAVR,Perimount Magna Ease,25,21.0,0.33,0.0,0,9.0,0.781,1
+Patient_059,SAVR,Perimount Magna Ease,27,15.0,,0.0,0,7.0,0.325,0
+Patient_042,SAVR,Trifecta,25,11.0,,0.0,1,7.0,0.131,0
+Patient_082,SAVR,Trifecta,27,6.0,0.52,0.0,0,8.0,0.13,0
+Patient_088,SAVR,Perimount Magna Ease,23,10.0,,0.0,0,7.0,0.119,0
+Patient_001,SAVR,Perimount Magna Ease,25,6.0,,0.0,0,2.0,0.033,0
+Patient_007,SAVR,Perimount Magna Ease,25,14.0,,0.0,0,1.0,0.033,0
+Patient_016,TAVR,Sapien 3,26,15.0,0.37,0.0,0,1.0,0.02,0
+Patient_002,TAVR,Sapien 3,29,14.0,0.39,0.0,0,1.0,0.016,0
+Patient_046,TAVR,Sapien 3,26,12.0,0.4,0.0,0,2.0,0.011,0
+Patient_034,TAVR,Sapien 3,23,8.0,,0.0,0,6.0,0.011,0
+Patient_060,TAVR,Sapien 3,26,10.0,0.6,0.0,0,1.0,0.01,0
+Patient_063,TAVR,Sapien 3,26,10.0,0.52,0.0,0,1.0,0.01,0
+Patient_074,TAVR,Sapien 3,29,13.0,0.53,0.0,0,4.0,0.01,0
+Patient_019,TAVR,Sapien 3,26,8.0,,0.0,0,4.0,0.009,0
+Patient_004,TAVR,Sapien 3,26,5.0,0.72,0.0,0,5.0,0.008,0

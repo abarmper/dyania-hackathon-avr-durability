@@ -1,0 +1,189 @@
+{
+ "kermen_fig2a_overall_survival": {
+  "stratum": "SAVR_perimount_class_age70",
+  "estimator": "KM",
+  "weibull": {
+   "scale": 23.97398095753494,
+   "shape": 1.0382998342629755,
+   "nll": 354.7283642818863,
+   "aic": 713.4567285637726
+  },
+  "loglogistic": {
+   "alpha": 19.43570411262189,
+   "beta": 1.1155801534682734,
+   "nll": 355.5911137502556,
+   "aic": 715.1822275005112
+  },
+  "note": "fit to OBSERVED-label incidence; initialiser for calibration only, not the latent onset distribution"
+ },
+ "kermen_fig2a_valve_related_survival": {
+  "stratum": "SAVR_perimount_class_age70",
+  "estimator": "KM",
+  "weibull": {
+   "scale": 352.47810820608777,
+   "shape": 0.6281091977503236,
+   "nll": 119.39053487150548,
+   "aic": 242.78106974301096
+  },
+  "loglogistic": {
+   "alpha": 313.30158349105443,
+   "beta": 0.6379637475496163,
+   "nll": 119.48285362400641,
+   "aic": 242.96570724801282
+  },
+  "note": "fit to OBSERVED-label incidence; initialiser for calibration only, not the latent onset distribution"
+ },
+ "kermen_fig2b_freedom_stage23": {
+  "stratum": "SAVR_perimount_class_age70",
+  "estimator": "KM",
+  "weibull": {
+   "scale": 11.597715184880336,
+   "shape": 4.62349870133004,
+   "nll": 180.36832007514505,
+   "aic": 364.7366401502901
+  },
+  "loglogistic": {
+   "alpha": 11.006435040392489,
+   "beta": 5.006855803862638,
+   "nll": 181.59226716768583,
+   "aic": 367.18453433537167
+  },
+  "note": "fit to OBSERVED-label incidence; initialiser for calibration only, not the latent onset distribution"
+ },
+ "kermen_fig2b_freedom_stage3": {
+  "stratum": "SAVR_perimount_class_age70",
+  "estimator": "KM",
+  "weibull": {
+   "scale": 13.549260861022745,
+   "shape": 5.543239528844979,
+   "nll": 104.01333298821359,
+   "aic": 212.02666597642718
+  },
+  "loglogistic": {
+   "alpha": 13.080012239647127,
+   "beta": 5.858336682643615,
+   "nll": 105.10433807979663,
+   "aic": 214.20867615959327
+  },
+  "note": "fit to OBSERVED-label incidence; initialiser for calibration only, not the latent onset distribution"
+ },
+ "kermen_fig4a_nonvalve_death": {
+  "stratum": "SAVR_perimount_class_age70",
+  "estimator": "AJ-as-KM",
+  "weibull": {
+   "scale": 28.185962905933287,
+   "shape": 1.199723828244648,
+   "nll": 261.84959584144116,
+   "aic": 527.6991916828823
+  },
+  "loglogistic": {
+   "alpha": 24.15258290639143,
+   "beta": 1.267613413448802,
+   "nll": 262.01870818282424,
+   "aic": 528.0374163656485
+  },
+  "note": "fit to OBSERVED-label incidence; initialiser for calibration only, not the latent onset distribution"
+ },
+ "kermen_fig4a_valve_related_death": {
+  "stratum": "SAVR_perimount_class_age70",
+  "estimator": "AJ-as-KM",
+  "weibull": {
+   "scale": 226.6355010142849,
+   "shape": 0.6802055797255465,
+   "nll": 128.73925291452449,
+   "aic": 261.47850582904897
+  },
+  "loglogistic": {
+   "alpha": 201.06836938814925,
+   "beta": 0.692049191034088,
+   "nll": 128.8076824274167,
+   "aic": 261.6153648548334
+  },
+  "note": "fit to OBSERVED-label incidence; initialiser for calibration only, not the latent onset distribution"
+ },
+ "kermen_fig4a_explant_svd": {
+  "stratum": "SAVR_perimount_class_age70",
+  "estimator": "AJ-as-KM",
+  "weibull": {
+   "scale": 284.88910189442805,
+   "shape": 0.9442518017479521,
+   "nll": 51.570418699606876,
+   "aic": 107.14083739921375
+  },
+  "loglogistic": {
+   "alpha": 280.5927311725376,
+   "beta": 0.9458825713804375,
+   "nll": 51.63629693322874,
+   "aic": 107.27259386645748
+  },
+  "note": "fit to OBSERVED-label incidence; initialiser for calibration only, not the latent onset distribution"
+ },
+ "notion_fig3_modsvd_tavi": {
+  "stratum": "TAVR_self_expanding_age79",
+  "estimator": "AJ-as-KM",
+  "weibull": {
+   "scale": 25.61020835197968,
+   "shape": 1.97363665048495,
+   "nll": 56.68043927690944,
+   "aic": 117.36087855381888
+  },
+  "loglogistic": {
+   "alpha": 24.31548361549737,
+   "beta": 2.022659412966509,
+   "nll": 56.79296511246034,
+   "aic": 117.58593022492067
+  },
+  "note": "fit to OBSERVED-label incidence; initialiser for calibration only, not the latent onset distribution"
+ },
+ "notion_fig3_modsvd_savr": {
+  "stratum": "SAVR_mixed_age79",
+  "estimator": "AJ-as-KM",
+  "weibull": {
+   "scale": 26.42606106223485,
+   "shape": 1.3713021506981957,
+   "nll": 89.03430899095197,
+   "aic": 182.06861798190394
+  },
+  "loglogistic": {
+   "alpha": 22.915026600824813,
+   "beta": 1.450424410906409,
+   "nll": 88.91911472744304,
+   "aic": 181.8382294548861
+  },
+  "note": "fit to OBSERVED-label incidence; initialiser for calibration only, not the latent onset distribution"
+ },
+ "notion_fig3_sevsvd_savr": {
+  "stratum": "SAVR_mixed_age79",
+  "estimator": "AJ-as-KM",
+  "weibull": {
+   "scale": 44.84130711229166,
+   "shape": 1.4322608121775067,
+   "nll": 49.34514014769555,
+   "aic": 102.6902802953911
+  },
+  "loglogistic": {
+   "alpha": 41.73742169695199,
+   "beta": 1.4660628215142657,
+   "nll": 49.344842530192025,
+   "aic": 102.68968506038405
+  },
+  "note": "fit to OBSERVED-label incidence; initialiser for calibration only, not the latent onset distribution"
+ },
+ "wakami_fig1_svd": {
+  "stratum": "SAVR_trifecta_class_age78",
+  "estimator": "AJ-as-KM",
+  "weibull": {
+   "scale": 36.634093061748814,
+   "shape": 1.3424793227625171,
+   "nll": 36.51035036990686,
+   "aic": 77.02070073981372
+  },
+  "loglogistic": {
+   "alpha": 34.90031643648832,
+   "beta": 1.3593875901222072,
+   "nll": 36.56795008424848,
+   "aic": 77.13590016849696
+  },
+  "note": "fit to OBSERVED-label incidence; initialiser for calibration only, not the latent onset distribution"
+ }
+}

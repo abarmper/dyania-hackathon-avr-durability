@@ -1,0 +1,5 @@
+__pycache__/
+.pytest_cache/
+# copies of the papers' figure images used only for QA and transcription
+output/*_source.png
+output/qa_notion_fig3_risk_table.png

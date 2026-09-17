@@ -1,0 +1,56 @@
+{
+ "parsimonious_features": [
+  "valve_model",
+  "landmark_t",
+  "approach",
+  "stage_now_full",
+  "delta_mpg",
+  "age_at_implant",
+  "stage_now_haemo",
+  "smoking"
+ ],
+ "AUC_5y": 0.9239571364799298,
+ "full_AUC_5y": 0.9251055753057009,
+ "shap_top10": [
+  {
+   "feature": "approach",
+   "mean_abs_shap": 0.4592103892823653
+  },
+  {
+   "feature": "valve_model",
+   "mean_abs_shap": 0.337366968789829
+  },
+  {
+   "feature": "period",
+   "mean_abs_shap": 0.25744711637871565
+  },
+  {
+   "feature": "delta_mpg",
+   "mean_abs_shap": 0.1945855235615005
+  },
+  {
+   "feature": "landmark_t",
+   "mean_abs_shap": 0.18535420262284258
+  },
+  {
+   "feature": "age_at_implant",
+   "mean_abs_shap": 0.1437934414282646
+  },
+  {
+   "feature": "vmax_now",
+   "mean_abs_shap": 0.13976449579368277
+  },
+  {
+   "feature": "stage_now_haemo",
+   "mean_abs_shap": 0.12540330315053352
+  },
+  {
+   "feature": "max_mpg_sofar",
+   "mean_abs_shap": 0.1072265348007769
+  },
+  {
+   "feature": "stage_now_full",
+   "mean_abs_shap": 0.1059477590044953
+  }
+ ]
+}

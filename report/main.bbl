@@ -1,0 +1,1282 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{trimaille2025}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=5f2063c167d49e38e37fa99e609f0aca}{%
+           family={Trimaille},
+           familyi={T\bibinitperiod},
+           given={Antonin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=48d016e24486b67f1a1fe4717990006f}{%
+           family={Carmona},
+           familyi={C\bibinitperiod},
+           given={Adrien},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a14448c0f2bc3406a21992f4bcf581a8}{%
+           family={Hmadeh},
+           familyi={H\bibinitperiod},
+           given={Sandy},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1235b330fe6328262899210ee9fa5580}
+      \strng{fullhash}{1235b330fe6328262899210ee9fa5580}
+      \strng{bibnamehash}{1235b330fe6328262899210ee9fa5580}
+      \strng{authorbibnamehash}{1235b330fe6328262899210ee9fa5580}
+      \strng{authornamehash}{1235b330fe6328262899210ee9fa5580}
+      \strng{authorfullhash}{1235b330fe6328262899210ee9fa5580}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Heart Association}
+      \field{title}{Transcatheter aortic valve durability: focus on structural valve deterioration}
+      \field{volume}{14}
+      \field{year}{2025}
+      \field{pages}{e041505}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1161/JAHA.125.041505
+      \endverb
+    \endentry
+    \entry{kostyunin2020}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=e196e979d64c8d2442d3d8bf1d867c10}{%
+           family={Kostyunin},
+           familyi={K\bibinitperiod},
+           given={Alexander\bibnamedelima E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=ec8da9b6424b49617f87672e1e70b86c}{%
+           family={Yuzhalin},
+           familyi={Y\bibinitperiod},
+           given={Arseniy\bibnamedelima E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=079588dd80bad9e358a68e7b60ea22c5}{%
+           family={Rezvova},
+           familyi={R\bibinitperiod},
+           given={Maria\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{25f717f5009a05f84c68dfce3cabea01}
+      \strng{fullhash}{25f717f5009a05f84c68dfce3cabea01}
+      \strng{bibnamehash}{25f717f5009a05f84c68dfce3cabea01}
+      \strng{authorbibnamehash}{25f717f5009a05f84c68dfce3cabea01}
+      \strng{authornamehash}{25f717f5009a05f84c68dfce3cabea01}
+      \strng{authorfullhash}{25f717f5009a05f84c68dfce3cabea01}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Heart Association}
+      \field{number}{19}
+      \field{title}{Degeneration of bioprosthetic heart valves: update 2020}
+      \field{volume}{9}
+      \field{year}{2020}
+      \field{pages}{e018506}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1161/JAHA.120.018506
+      \endverb
+    \endentry
+    \entry{wakami2022}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9336904588b1c0c11f77844c729ed204}{%
+           family={Wakami},
+           familyi={W\bibinitperiod},
+           given={Tatsuto},
+           giveni={T\bibinitperiod}}}%
+        {{hash=864ce05cb409b98f204206c0e3f577e5}{%
+           family={Koizumi},
+           familyi={K\bibinitperiod},
+           given={Shigeki},
+           giveni={S\bibinitperiod}}}%
+        {{hash=60ab0bb234ca117accbf27f06c62f40b}{%
+           family={Koyama},
+           familyi={K\bibinitperiod},
+           given={Tadaaki},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{49de6c8e306f68f52955e4b03f955398}
+      \strng{fullhash}{49de6c8e306f68f52955e4b03f955398}
+      \strng{bibnamehash}{49de6c8e306f68f52955e4b03f955398}
+      \strng{authorbibnamehash}{49de6c8e306f68f52955e4b03f955398}
+      \strng{authornamehash}{49de6c8e306f68f52955e4b03f955398}
+      \strng{authorfullhash}{49de6c8e306f68f52955e4b03f955398}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cardiothoracic Surgery}
+      \field{title}{Impact of postoperative patient-prosthesis mismatch as a risk factor for early structural valve deterioration after aortic valve replacement with {Trifecta} bioprosthesis}
+      \field{volume}{17}
+      \field{year}{2022}
+      \field{pages}{174}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s13019-022-01918-3
+      \endverb
+    \endentry
+    \entry{geisler2026}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=cf771055920d2b26fad5913e965a78f6}{%
+           family={Geisler},
+           familyi={G\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod}}}%
+        {{hash=638fbc449cc5199fe1934358fb0a0e85}{%
+           family={Arnold},
+           familyi={A\bibinitperiod},
+           given={Zsuzsanna},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=88e58cd28289d8d3da38108f5ff6b6c6}{%
+           family={Harrer},
+           familyi={H\bibinitperiod},
+           given={Marieluise},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{abf8c7fda4e6bc417ec50227944017da}
+      \strng{fullhash}{abf8c7fda4e6bc417ec50227944017da}
+      \strng{bibnamehash}{abf8c7fda4e6bc417ec50227944017da}
+      \strng{authorbibnamehash}{abf8c7fda4e6bc417ec50227944017da}
+      \strng{authornamehash}{abf8c7fda4e6bc417ec50227944017da}
+      \strng{authorfullhash}{abf8c7fda4e6bc417ec50227944017da}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Clinical Medicine}
+      \field{number}{2}
+      \field{title}{Reintervention for failed aortic bioprostheses: distinct patient profiles for redo surgery and valve-in-valve {TAVR} in an all-comers cohort}
+      \field{volume}{15}
+      \field{year}{2026}
+      \field{pages}{474}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/jcm15020474
+      \endverb
+    \endentry
+    \entry{genereux2025}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=56037145cd2f884cc6050e8b9859fcf4}{%
+           family={Genereux},
+           familyi={G\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6e66dbf2e0d5617e0bb1224b123c8d30}{%
+           family={Leon},
+           familyi={L\bibinitperiod},
+           given={Martin\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=dedc16f464fcab1a1eff07b275e3cde7}{%
+           family={Dar},
+           familyi={D\bibinitperiod},
+           given={Roy\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{70a5c72bf0518f815c446f25add57725}
+      \strng{fullhash}{70a5c72bf0518f815c446f25add57725}
+      \strng{bibnamehash}{70a5c72bf0518f815c446f25add57725}
+      \strng{authorbibnamehash}{70a5c72bf0518f815c446f25add57725}
+      \strng{authornamehash}{70a5c72bf0518f815c446f25add57725}
+      \strng{authorfullhash}{70a5c72bf0518f815c446f25add57725}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Structural Heart}
+      \field{title}{Predicting treatment of bioprosthetic aortic valve failure in the {United States}: a proposed model}
+      \field{volume}{9}
+      \field{year}{2025}
+      \field{pages}{100339}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.shj.2024.100339
+      \endverb
+    \endentry
+    \entry{capodanno2017}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=f05b388fc1ab086da73e6d5baa4842e2}{%
+           family={Capodanno},
+           familyi={C\bibinitperiod},
+           given={Davide},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7bc59ca5c3fce8c356b6dd45b2542173}{%
+           family={Petronio},
+           familyi={P\bibinitperiod},
+           given={Anna\bibnamedelima Sonia},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=e042940653491e075df8b0f540a9634c}{%
+           family={Prendergast},
+           familyi={P\bibinitperiod},
+           given={Bernard},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea623f8ccbdf1bee769823ac00c02d36}
+      \strng{fullhash}{ea623f8ccbdf1bee769823ac00c02d36}
+      \strng{bibnamehash}{ea623f8ccbdf1bee769823ac00c02d36}
+      \strng{authorbibnamehash}{ea623f8ccbdf1bee769823ac00c02d36}
+      \strng{authornamehash}{ea623f8ccbdf1bee769823ac00c02d36}
+      \strng{authorfullhash}{ea623f8ccbdf1bee769823ac00c02d36}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Heart Journal}
+      \field{number}{45}
+      \field{title}{Standardized definitions of structural deterioration and valve failure in assessing long-term durability of transcatheter and surgical aortic bioprosthetic valves: a consensus statement from the {EAPCI} endorsed by the {ESC} and {EACTS}}
+      \field{volume}{38}
+      \field{year}{2017}
+      \field{pages}{3382\bibrangedash 3390}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1093/eurheartj/ehx303
+      \endverb
+    \endentry
+    \entry{dvir2018}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=cd447e286a309d0ca1f28a340a891a5f}{%
+           family={Dvir},
+           familyi={D\bibinitperiod},
+           given={Danny},
+           giveni={D\bibinitperiod}}}%
+        {{hash=17332c96b0af7019830acedec21fb4aa}{%
+           family={Bourguignon},
+           familyi={B\bibinitperiod},
+           given={Thierry},
+           giveni={T\bibinitperiod}}}%
+        {{hash=50e2caee4dd920b46fb30b059ffa2816}{%
+           family={Otto},
+           familyi={O\bibinitperiod},
+           given={Catherine\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd7e46592182472e6dda45b4b6aa9bfb}
+      \strng{fullhash}{cd7e46592182472e6dda45b4b6aa9bfb}
+      \strng{bibnamehash}{cd7e46592182472e6dda45b4b6aa9bfb}
+      \strng{authorbibnamehash}{cd7e46592182472e6dda45b4b6aa9bfb}
+      \strng{authornamehash}{cd7e46592182472e6dda45b4b6aa9bfb}
+      \strng{authorfullhash}{cd7e46592182472e6dda45b4b6aa9bfb}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Circulation}
+      \field{number}{4}
+      \field{title}{Standardized definition of structural valve degeneration for surgical and transcatheter bioprosthetic aortic valves}
+      \field{volume}{137}
+      \field{year}{2018}
+      \field{pages}{388\bibrangedash 399}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1161/CIRCULATIONAHA.117.030729
+      \endverb
+    \endentry
+    \entry{genereux2021}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=12588516f4d134dd27da7d6b099cde8a}{%
+           family={Généreux},
+           familyi={G\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2b1a9c7ec65325b115956fed90f49985}{%
+           family={Piazza},
+           familyi={P\bibinitperiod},
+           given={Nicolo},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5e0ab740340a6bae8105157564d45999}{%
+           family={Alu},
+           familyi={A\bibinitperiod},
+           given={Maria\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ba5415cef143a6c0fb39b409ca490f6}
+      \strng{fullhash}{8ba5415cef143a6c0fb39b409ca490f6}
+      \strng{bibnamehash}{8ba5415cef143a6c0fb39b409ca490f6}
+      \strng{authorbibnamehash}{8ba5415cef143a6c0fb39b409ca490f6}
+      \strng{authornamehash}{8ba5415cef143a6c0fb39b409ca490f6}
+      \strng{authorfullhash}{8ba5415cef143a6c0fb39b409ca490f6}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Heart Journal}
+      \field{number}{19}
+      \field{title}{{Valve Academic Research Consortium 3}: updated endpoint definitions for aortic valve clinical research}
+      \field{volume}{42}
+      \field{year}{2021}
+      \field{pages}{1825\bibrangedash 1857}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.1093/eurheartj/ehaa799
+      \endverb
+    \endentry
+    \entry{praz2025}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=037a6e72245edfd1cd2fbc9f439e4200}{%
+           family={Praz},
+           familyi={P\bibinitperiod},
+           given={Fabien},
+           giveni={F\bibinitperiod}}}%
+        {{hash=533a8159ce68658dac64f8afb36262d1}{%
+           family={Borger},
+           familyi={B\bibinitperiod},
+           given={Michael\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2cd6e2aa1e04aec985d7a2534054283e}{%
+           family={Lanz},
+           familyi={L\bibinitperiod},
+           given={Jonas},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{e5aa371b9b94c31ac15809b1550f4e88}
+      \strng{fullhash}{e5aa371b9b94c31ac15809b1550f4e88}
+      \strng{bibnamehash}{e5aa371b9b94c31ac15809b1550f4e88}
+      \strng{authorbibnamehash}{e5aa371b9b94c31ac15809b1550f4e88}
+      \strng{authornamehash}{e5aa371b9b94c31ac15809b1550f4e88}
+      \strng{authorfullhash}{e5aa371b9b94c31ac15809b1550f4e88}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Heart Journal}
+      \field{number}{44}
+      \field{title}{2025 {ESC/EACTS} Guidelines for the management of valvular heart disease}
+      \field{volume}{46}
+      \field{year}{2025}
+      \field{pages}{4635\bibrangedash 4736}
+      \range{pages}{102}
+      \verb{doi}
+      \verb 10.1093/eurheartj/ehaf194
+      \endverb
+    \endentry
+    \entry{zoghbi2024}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=7154716d9e8b5bd56020918aab8db73c}{%
+           family={Zoghbi},
+           familyi={Z\bibinitperiod},
+           given={William\bibnamedelima A.},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d239ac2daf8d88fc9ce63598874b8d50}{%
+           family={Jone},
+           familyi={J\bibinitperiod},
+           given={Pei-Ni},
+           giveni={P\bibinithyphendelim N\bibinitperiod}}}%
+        {{hash=9737969c201bdbed8efdf2a00a68ff1e}{%
+           family={Chamsi-Pasha},
+           familyi={C\bibinithyphendelim P\bibinitperiod},
+           given={Mohammed\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{30c1412e8a11aa8edc1689b22eec67f3}
+      \strng{fullhash}{30c1412e8a11aa8edc1689b22eec67f3}
+      \strng{bibnamehash}{30c1412e8a11aa8edc1689b22eec67f3}
+      \strng{authorbibnamehash}{30c1412e8a11aa8edc1689b22eec67f3}
+      \strng{authornamehash}{30c1412e8a11aa8edc1689b22eec67f3}
+      \strng{authorfullhash}{30c1412e8a11aa8edc1689b22eec67f3}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Society of Echocardiography}
+      \field{number}{1}
+      \field{title}{Guidelines for the evaluation of prosthetic valve function with cardiovascular imaging: a report from the {American Society of Echocardiography}}
+      \field{volume}{37}
+      \field{year}{2024}
+      \field{pages}{2\bibrangedash 63}
+      \range{pages}{62}
+      \verb{doi}
+      \verb 10.1016/j.echo.2023.10.004
+      \endverb
+    \endentry
+    \entry{thyregod2024}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=3bdcb5419d1fe70088bdc358105bb077}{%
+           family={Thyregod},
+           familyi={T\bibinitperiod},
+           given={Hans\bibnamedelimb Gustav\bibnamedelima H{ø}rsted},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=0ff4b0fd566fdb205a99b21718be1dc2}{%
+           family={J{ø}rgensen},
+           familyi={J\bibinitperiod},
+           given={Troels\bibnamedelima H{ø}jsgaard},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=86018146293d632dff571067abb20a09}{%
+           family={Ihlemann},
+           familyi={I\bibinitperiod},
+           given={Nikolaj},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0c2e422cc609beee6ce1fd10119fda9}
+      \strng{fullhash}{d0c2e422cc609beee6ce1fd10119fda9}
+      \strng{bibnamehash}{d0c2e422cc609beee6ce1fd10119fda9}
+      \strng{authorbibnamehash}{d0c2e422cc609beee6ce1fd10119fda9}
+      \strng{authornamehash}{d0c2e422cc609beee6ce1fd10119fda9}
+      \strng{authorfullhash}{d0c2e422cc609beee6ce1fd10119fda9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Heart Journal}
+      \field{number}{13}
+      \field{title}{Transcatheter or surgical aortic valve implantation: 10-year outcomes of the {NOTION} trial}
+      \field{volume}{45}
+      \field{year}{2024}
+      \field{pages}{1116\bibrangedash 1124}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1093/eurheartj/ehae043
+      \endverb
+    \endentry
+    \entry{kermen2022}{article}{}
+      \name{author}{7}{}{%
+        {{hash=e5302428dda25f3b3a5ca4f4bed0fe68}{%
+           family={Kermen},
+           familyi={K\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e25eaf31ccce8b535b92c2bc46e9eb1d}{%
+           family={Strella},
+           familyi={S\bibinitperiod},
+           given={Julien},
+           giveni={J\bibinitperiod}}}%
+        {{hash=47634b53cd352959e3cf4694839981bc}{%
+           family={Aupart},
+           familyi={A\bibinitperiod},
+           given={Antoine},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0e196e44003891b83870831758e609f1}{%
+           family={Espitalier},
+           familyi={E\bibinitperiod},
+           given={Fabien},
+           giveni={F\bibinitperiod}}}%
+        {{hash=c033192df7bf3e58914199dd04e426ad}{%
+           family={Aupart},
+           familyi={A\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=da7755f3327cb7f558be0e4ede767ab5}{%
+           family={Bernard},
+           familyi={B\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=17332c96b0af7019830acedec21fb4aa}{%
+           family={Bourguignon},
+           familyi={B\bibinitperiod},
+           given={Thierry},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{804b2773a53fd00a9e81db30c5884fa1}
+      \strng{fullhash}{f4b6c97a522d099891528492653d5336}
+      \strng{bibnamehash}{a683cf6646fc7edcb9d2212643f172d0}
+      \strng{authorbibnamehash}{a683cf6646fc7edcb9d2212643f172d0}
+      \strng{authornamehash}{804b2773a53fd00a9e81db30c5884fa1}
+      \strng{authorfullhash}{f4b6c97a522d099891528492653d5336}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JTCVS Open}
+      \field{title}{Durability of a bovine pericardial aortic bioprosthesis based on {VARC-3} echocardiographic criteria}
+      \field{volume}{11}
+      \field{year}{2022}
+      \field{pages}{72\bibrangedash 80}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.xjon.2022.05.008
+      \endverb
+    \endentry
+    \entry{johnston2015}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=d1d3d715eee96996613b6686010f9ff3}{%
+           family={Johnston},
+           familyi={J\bibinitperiod},
+           given={Douglas\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=61413e8650ddd69541997f7c4a539ddf}{%
+           family={Soltesz},
+           familyi={S\bibinitperiod},
+           given={Edward\bibnamedelima G.},
+           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=daaa1486a889f5382e4d005f4850eebd}{%
+           family={Vakil},
+           familyi={V\bibinitperiod},
+           given={Nakul},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{bb9b2e116526a059deb30f954916bdf9}
+      \strng{fullhash}{bb9b2e116526a059deb30f954916bdf9}
+      \strng{bibnamehash}{bb9b2e116526a059deb30f954916bdf9}
+      \strng{authorbibnamehash}{bb9b2e116526a059deb30f954916bdf9}
+      \strng{authornamehash}{bb9b2e116526a059deb30f954916bdf9}
+      \strng{authorfullhash}{bb9b2e116526a059deb30f954916bdf9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Annals of Thoracic Surgery}
+      \field{number}{4}
+      \field{title}{Long-term durability of bioprosthetic aortic valves: implications from 12,569 implants}
+      \field{volume}{99}
+      \field{year}{2015}
+      \field{pages}{1239\bibrangedash 1247}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.athoracsur.2014.10.070
+      \endverb
+    \endentry
+    \entry{salaun2018}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=449f3213eab21f16ec2d6a9c4b384632}{%
+           family={Salaun},
+           familyi={S\bibinitperiod},
+           given={Erwan},
+           giveni={E\bibinitperiod}}}%
+        {{hash=3723fedefbfb3d010905f14a6bfc9124}{%
+           family={Mahjoub},
+           familyi={M\bibinitperiod},
+           given={Haifa},
+           giveni={H\bibinitperiod}}}%
+        {{hash=94895b26d4770b4c7a9f61ba29373513}{%
+           family={Girerd},
+           familyi={G\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{ab8699b150eed39e960e6ac01aa943e1}
+      \strng{fullhash}{ab8699b150eed39e960e6ac01aa943e1}
+      \strng{bibnamehash}{ab8699b150eed39e960e6ac01aa943e1}
+      \strng{authorbibnamehash}{ab8699b150eed39e960e6ac01aa943e1}
+      \strng{authornamehash}{ab8699b150eed39e960e6ac01aa943e1}
+      \strng{authorfullhash}{ab8699b150eed39e960e6ac01aa943e1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Circulation}
+      \field{number}{10}
+      \field{title}{Rate, timing, correlates, and outcomes of hemodynamic valve deterioration after bioprosthetic surgical aortic valve replacement}
+      \field{volume}{138}
+      \field{year}{2018}
+      \field{pages}{971\bibrangedash 985}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1161/CIRCULATIONAHA.118.035150
+      \endverb
+    \endentry
+    \entry{cartlidge2019}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=d82d59479de868b6b1df4b712d9f7379}{%
+           family={Cartlidge},
+           familyi={C\bibinitperiod},
+           given={Timothy\bibnamedelimb R.\bibnamedelimi G.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=8aae06e00c55cf185b94399beece8a09}{%
+           family={Doris},
+           familyi={D\bibinitperiod},
+           given={Mhairi\bibnamedelima K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=89c39e1e98377d2905c8fdcd355fdcbf}{%
+           family={Sellers},
+           familyi={S\bibinitperiod},
+           given={Stephanie\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{c5c2a2fc7ed4bce6210b08136396ebd8}
+      \strng{fullhash}{c5c2a2fc7ed4bce6210b08136396ebd8}
+      \strng{bibnamehash}{c5c2a2fc7ed4bce6210b08136396ebd8}
+      \strng{authorbibnamehash}{c5c2a2fc7ed4bce6210b08136396ebd8}
+      \strng{authornamehash}{c5c2a2fc7ed4bce6210b08136396ebd8}
+      \strng{authorfullhash}{c5c2a2fc7ed4bce6210b08136396ebd8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American College of Cardiology}
+      \field{number}{10}
+      \field{title}{Detection and prediction of bioprosthetic aortic valve degeneration}
+      \field{volume}{73}
+      \field{year}{2019}
+      \field{pages}{1107\bibrangedash 1119}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.jacc.2018.12.056
+      \endverb
+    \endentry
+    \entry{velders2024}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=1d16d6aac3e4a3a6e26a11aa399cfa46}{%
+           family={Velders},
+           familyi={V\bibinitperiod},
+           given={Bart\bibnamedelimb J.\bibnamedelimi J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=27a185a128f29d1a73035ef4880bf19e}{%
+           family={Vriesendorp},
+           familyi={V\bibinitperiod},
+           given={Michiel\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=2bb7e3e41a79dd0ec3c75b9882247a18}{%
+           family={Sabik},
+           familyi={S\bibinitperiod},
+           given={Joseph\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{39cf86de89f1531852a5872f0135be05}
+      \strng{fullhash}{39cf86de89f1531852a5872f0135be05}
+      \strng{bibnamehash}{39cf86de89f1531852a5872f0135be05}
+      \strng{authorbibnamehash}{39cf86de89f1531852a5872f0135be05}
+      \strng{authornamehash}{39cf86de89f1531852a5872f0135be05}
+      \strng{authorfullhash}{39cf86de89f1531852a5872f0135be05}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JTCVS Open}
+      \field{title}{Current definitions of hemodynamic structural valve deterioration after bioprosthetic aortic valve replacement lack consistency}
+      \field{volume}{19}
+      \field{year}{2024}
+      \field{pages}{68\bibrangedash 90}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1016/j.xjon.2024.02.023
+      \endverb
+    \endentry
+    \entry{vahanian2021}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=d2b14e37ee7ede19a6651ade503a4b5e}{%
+           family={Vahanian},
+           familyi={V\bibinitperiod},
+           given={Alec},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b134d8d055e69ad4447d953b9914cf75}{%
+           family={Beyersdorf},
+           familyi={B\bibinitperiod},
+           given={Friedhelm},
+           giveni={F\bibinitperiod}}}%
+        {{hash=037a6e72245edfd1cd2fbc9f439e4200}{%
+           family={Praz},
+           familyi={P\bibinitperiod},
+           given={Fabien},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{498551ca0c0a7739671a79125fefc9d5}
+      \strng{fullhash}{498551ca0c0a7739671a79125fefc9d5}
+      \strng{bibnamehash}{498551ca0c0a7739671a79125fefc9d5}
+      \strng{authorbibnamehash}{498551ca0c0a7739671a79125fefc9d5}
+      \strng{authornamehash}{498551ca0c0a7739671a79125fefc9d5}
+      \strng{authorfullhash}{498551ca0c0a7739671a79125fefc9d5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Heart Journal}
+      \field{number}{7}
+      \field{title}{2021 {ESC/EACTS} Guidelines for the management of valvular heart disease}
+      \field{volume}{43}
+      \field{year}{2022}
+      \field{pages}{561\bibrangedash 632}
+      \range{pages}{72}
+      \verb{doi}
+      \verb 10.1093/eurheartj/ehab395
+      \endverb
+    \endentry
+    \entry{otto2021}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=50e2caee4dd920b46fb30b059ffa2816}{%
+           family={Otto},
+           familyi={O\bibinitperiod},
+           given={Catherine\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8ea4da5db3f351e53e29a790b88fb664}{%
+           family={Nishimura},
+           familyi={N\bibinitperiod},
+           given={Rick\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=9140e9b7ad07b232d42963e038460732}{%
+           family={Bonow},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima O.},
+           giveni={R\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{27ba536a4856af8c5d5e498f36ad3e50}
+      \strng{fullhash}{27ba536a4856af8c5d5e498f36ad3e50}
+      \strng{bibnamehash}{27ba536a4856af8c5d5e498f36ad3e50}
+      \strng{authorbibnamehash}{27ba536a4856af8c5d5e498f36ad3e50}
+      \strng{authornamehash}{27ba536a4856af8c5d5e498f36ad3e50}
+      \strng{authorfullhash}{27ba536a4856af8c5d5e498f36ad3e50}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Circulation}
+      \field{number}{5}
+      \field{title}{2020 {ACC/AHA} guideline for the management of patients with valvular heart disease}
+      \field{volume}{143}
+      \field{year}{2021}
+      \field{pages}{e72\bibrangedash e227}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1161/CIR.0000000000000923
+      \endverb
+    \endentry
+    \entry{hofmann2024}{article}{}
+      \name{author}{6}{}{%
+        {{hash=063756e203a027372310616e3bde942a}{%
+           family={Hofmann},
+           familyi={H\bibinitperiod},
+           given={Amun\bibnamedelima Georg},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=7eacfd34d8faaab2c94f640ef1685c0d}{%
+           family={Mlekusch},
+           familyi={M\bibinitperiod},
+           given={Irene},
+           giveni={I\bibinitperiod}}}%
+        {{hash=defe8dc637839393f9fafeb9fa89ae44}{%
+           family={Wickenhauser},
+           familyi={W\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod}}}%
+        {{hash=ce6224024b161692435f5b1c2b7ec9d7}{%
+           family={Walter},
+           familyi={W\bibinitperiod},
+           given={Corinna},
+           giveni={C\bibinitperiod}}}%
+        {{hash=df982e3d6dcb5e8d7bda8fb2c29a6ac4}{%
+           family={Taher},
+           familyi={T\bibinitperiod},
+           given={Fadi},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b171121139c681b3c0ce942d77d0ab4d}{%
+           family={Assadian},
+           familyi={A\bibinitperiod},
+           given={Afshin},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{cb34714d855c26a59aea65b1da2d3dd1}
+      \strng{fullhash}{88292d2e43ed50729861921a2b325a21}
+      \strng{bibnamehash}{f4768781de70be7588eb0279f0d4200a}
+      \strng{authorbibnamehash}{f4768781de70be7588eb0279f0d4200a}
+      \strng{authornamehash}{cb34714d855c26a59aea65b1da2d3dd1}
+      \strng{authorfullhash}{88292d2e43ed50729861921a2b325a21}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Diagnostics}
+      \field{number}{9}
+      \field{title}{Individualizing surveillance after endovascular aortic repair using a modular imaging algorithm}
+      \field{volume}{14}
+      \field{year}{2024}
+      \field{pages}{930}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/diagnostics14090930
+      \endverb
+    \endentry
+    \entry{rizopoulos2016}{article}{}
+      \name{author}{5}{}{%
+        {{hash=68f951c5caa662e5b3cf20be18f5acef}{%
+           family={Rizopoulos},
+           familyi={R\bibinitperiod},
+           given={Dimitris},
+           giveni={D\bibinitperiod}}}%
+        {{hash=dcdbc9959f9f63c60189f7771536f0c2}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Jeremy\bibnamedelimb M.\bibnamedelimi G.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=90053d7d4ac9a8089d71569fccd0d7f7}{%
+           family={{Van Rosmalen}},
+           familyi={V\bibinitperiod},
+           given={Joost},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c5f644025baa1e55be3cbd8298eee154}{%
+           family={Steyerberg},
+           familyi={S\bibinitperiod},
+           given={Ewout\bibnamedelima W.},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=e877aae7008fcdcd422d45a5d5f0b2d4}{%
+           family={Takkenberg},
+           familyi={T\bibinitperiod},
+           given={Johanna\bibnamedelimb J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b59c4371740828d64f7f3edd5163a781}
+      \strng{fullhash}{7590709c591f93245c91ee387f090368}
+      \strng{bibnamehash}{76a0dfe1365e0d1a6ce5c39b745b883c}
+      \strng{authorbibnamehash}{76a0dfe1365e0d1a6ce5c39b745b883c}
+      \strng{authornamehash}{b59c4371740828d64f7f3edd5163a781}
+      \strng{authorfullhash}{7590709c591f93245c91ee387f090368}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biostatistics}
+      \field{number}{1}
+      \field{title}{Personalized screening intervals for biomarkers using joint models for longitudinal and survival data}
+      \field{volume}{17}
+      \field{year}{2016}
+      \field{pages}{149\bibrangedash 164}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1093/biostatistics/kxv031
+      \endverb
+    \endentry
+    \entry{xie2026}{article}{}
+      \name{author}{4}{}{%
+        {{hash=357cc755a4aadcf18a15400438cc0152}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Fagen},
+           giveni={F\bibinitperiod}}}%
+        {{hash=274d2cf993477e5b4f46b797a55bfe1f}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Ming-Sum},
+           giveni={M\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=0566c0fc39bef5322c565379a214597b}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Wansu},
+           giveni={W\bibinitperiod}}}%
+        {{hash=17328412f36e4a551ed21b94a2580301}{%
+           family={Phan},
+           familyi={P\bibinitperiod},
+           given={Derek\bibnamedelima Q.},
+           giveni={D\bibinitperiod\bibinitdelim Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{84a1e0ca485d44686cff96b5e209e735}
+      \strng{fullhash}{01add2d44166bc7140160d3d32144564}
+      \strng{bibnamehash}{e4996e92c240266d350abf0e956dd016}
+      \strng{authorbibnamehash}{e4996e92c240266d350abf0e956dd016}
+      \strng{authornamehash}{84a1e0ca485d44686cff96b5e209e735}
+      \strng{authorfullhash}{01add2d44166bc7140160d3d32144564}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JAMIA Open}
+      \field{number}{2}
+      \field{title}{Converting unstructured cardiac catheterization and echocardiography reports into structured data using transformer-based language models}
+      \field{volume}{9}
+      \field{year}{2026}
+      \field{pages}{ooag036}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1093/jamiaopen/ooag036
+      \endverb
+    \endentry
+    \entry{riley2020}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=346e99b2c582cf15d36f442325188a4b}{%
+           family={Riley},
+           familyi={R\bibinitperiod},
+           given={Richard\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=c12a94fc3d0683aa65def5a9abb7eed4}{%
+           family={Ensor},
+           familyi={E\bibinitperiod},
+           given={Joie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5e5621caa85e0b97b9331391d39aff8b}{%
+           family={Snell},
+           familyi={S\bibinitperiod},
+           given={Kym\bibnamedelimb I.\bibnamedelimi E.},
+           giveni={K\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ba2b63dbe97cdb6bd96cf4177f048fa}
+      \strng{fullhash}{4ba2b63dbe97cdb6bd96cf4177f048fa}
+      \strng{bibnamehash}{4ba2b63dbe97cdb6bd96cf4177f048fa}
+      \strng{authorbibnamehash}{4ba2b63dbe97cdb6bd96cf4177f048fa}
+      \strng{authornamehash}{4ba2b63dbe97cdb6bd96cf4177f048fa}
+      \strng{authorfullhash}{4ba2b63dbe97cdb6bd96cf4177f048fa}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMJ}
+      \field{title}{Calculating the sample size required for developing a clinical prediction model}
+      \field{volume}{368}
+      \field{year}{2020}
+      \field{pages}{m441}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1136/bmj.m441
+      \endverb
+    \endentry
+    \entry{collins2024}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=9def305c11110011d8cc0d756fbeb2b5}{%
+           family={Collins},
+           familyi={C\bibinitperiod},
+           given={Gary\bibnamedelima S.},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=f5f6785ed8b1860e2369a064308079b1}{%
+           family={Moons},
+           familyi={M\bibinitperiod},
+           given={Karel\bibnamedelimb G.\bibnamedelimi M.},
+           giveni={K\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=467a57675d58716cf9324ea1db87e359}{%
+           family={Dhiman},
+           familyi={D\bibinitperiod},
+           given={Paula},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f4208c267aa4b432d6cd4a09ef7c227}
+      \strng{fullhash}{8f4208c267aa4b432d6cd4a09ef7c227}
+      \strng{bibnamehash}{8f4208c267aa4b432d6cd4a09ef7c227}
+      \strng{authorbibnamehash}{8f4208c267aa4b432d6cd4a09ef7c227}
+      \strng{authornamehash}{8f4208c267aa4b432d6cd4a09ef7c227}
+      \strng{authorfullhash}{8f4208c267aa4b432d6cd4a09ef7c227}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMJ}
+      \field{title}{{TRIPOD+AI} statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods}
+      \field{volume}{385}
+      \field{year}{2024}
+      \field{pages}{e078378}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1136/bmj-2023-078378
+      \endverb
+    \endentry
+    \entry{austin2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=72bb99ace345dcf7ae8b3e877ab1dc2f}{%
+           family={Austin},
+           familyi={A\bibinitperiod},
+           given={Peter\bibnamedelima C.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=b1b4ab5b5909c737c6b6ba5ac5fc2722}{%
+           family={Fine},
+           familyi={F\bibinitperiod},
+           given={Jason\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{6bd16ed53fc63d671a414ebc6d4c256a}
+      \strng{fullhash}{6bd16ed53fc63d671a414ebc6d4c256a}
+      \strng{bibnamehash}{6bd16ed53fc63d671a414ebc6d4c256a}
+      \strng{authorbibnamehash}{6bd16ed53fc63d671a414ebc6d4c256a}
+      \strng{authornamehash}{6bd16ed53fc63d671a414ebc6d4c256a}
+      \strng{authorfullhash}{6bd16ed53fc63d671a414ebc6d4c256a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Statistics in Medicine}
+      \field{number}{27}
+      \field{title}{Practical recommendations for reporting {Fine-Gray} model analyses for competing risk data}
+      \field{volume}{36}
+      \field{year}{2017}
+      \field{pages}{4391\bibrangedash 4400}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1002/sim.7501
+      \endverb
+    \endentry
+    \entry{guyot2012}{article}{}
+      \name{author}{4}{}{%
+        {{hash=25f87f8eff5ca605dc123531660b007a}{%
+           family={Guyot},
+           familyi={G\bibinitperiod},
+           given={Patricia},
+           giveni={P\bibinitperiod}}}%
+        {{hash=8b84bf66b64bf2b6f93f237a4d52d2fa}{%
+           family={Ades},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=d6d292a1e77612e5979240c317810a11}{%
+           family={Ouwens},
+           familyi={O\bibinitperiod},
+           given={Mario\bibnamedelimb J.\bibnamedelimi N.\bibnamedelimi M.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=c95e04640ca1eb2c319b63e172b42c80}{%
+           family={Welton},
+           familyi={W\bibinitperiod},
+           given={Nicky\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c731bb833a58a8dd258f2262cc1fb2fe}
+      \strng{fullhash}{ba3460023e2f0c189abb3b3a083c6095}
+      \strng{bibnamehash}{32c1661956465c97ea457a40df39ac94}
+      \strng{authorbibnamehash}{32c1661956465c97ea457a40df39ac94}
+      \strng{authornamehash}{c731bb833a58a8dd258f2262cc1fb2fe}
+      \strng{authorfullhash}{ba3460023e2f0c189abb3b3a083c6095}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Medical Research Methodology}
+      \field{title}{Enhanced secondary analysis of survival data: reconstructing the data from published {Kaplan-Meier} survival curves}
+      \field{volume}{12}
+      \field{year}{2012}
+      \field{pages}{9}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/1471-2288-12-9
+      \endverb
+    \endentry
+    \entry{lee2018}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=f1d9a08ac4ba7614934cfadf1df256c2}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Changhee},
+           giveni={C\bibinitperiod}}}%
+        {{hash=666c1d828606670136c95df306a347de}{%
+           family={Zame},
+           familyi={Z\bibinitperiod},
+           given={William\bibnamedelima R.},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=7b5738a87e11e248e9c5a24b5b0f0769}{%
+           family={Yoon},
+           familyi={Y\bibinitperiod},
+           given={Jinsung},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d44f2d413b2e6dcde01be4d1392763dd}{%
+           family={{van der Schaar}},
+           familyi={v\bibinitperiod},
+           given={Mihaela},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a9b9828a8c8f6b841306e4736a6da25b}
+      \strng{fullhash}{b9926c9c74462ad72838836320032c85}
+      \strng{bibnamehash}{99d0c6d7002bdbe2d47439f524e478a2}
+      \strng{authorbibnamehash}{99d0c6d7002bdbe2d47439f524e478a2}
+      \strng{authornamehash}{a9b9828a8c8f6b841306e4736a6da25b}
+      \strng{authorfullhash}{b9926c9c74462ad72838836320032c85}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the AAAI Conference on Artificial Intelligence}
+      \field{number}{1}
+      \field{title}{{DeepHit}: a deep learning approach to survival analysis with competing risks}
+      \field{volume}{32}
+      \field{year}{2018}
+    \endentry
+    \entry{wiegrebe2023}{misc}{}
+      \name{author}{5}{}{%
+        {{hash=ecfa7f940c2ebf9c09ce92115bc6cf25}{%
+           family={Wiegrebe},
+           familyi={W\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e628fbe399d0d1bc5c391f07b04ed24a}{%
+           family={Kopper},
+           familyi={K\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2db4d382d99a2d9177badfb9a18d85d5}{%
+           family={Sonabend},
+           familyi={S\bibinitperiod},
+           given={Raphael},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c5695b464b6059e7047553d017275f65}{%
+           family={Bischl},
+           familyi={B\bibinitperiod},
+           given={Bernd},
+           giveni={B\bibinitperiod}}}%
+        {{hash=8cf90897a363ce99d63372266fbc6a5a}{%
+           family={Bender},
+           familyi={B\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{85f6a0dbc4f442a439e29369ca7a94e1}
+      \strng{fullhash}{82ee72bbad3226150c7f0583eaedfe02}
+      \strng{bibnamehash}{7d8bf5fde6881e97e5129d65e9d9073c}
+      \strng{authorbibnamehash}{7d8bf5fde6881e97e5129d65e9d9073c}
+      \strng{authornamehash}{85f6a0dbc4f442a439e29369ca7a94e1}
+      \strng{authorfullhash}{82ee72bbad3226150c7f0583eaedfe02}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{arXiv:2305.14961}
+      \field{title}{Deep learning for survival analysis: a review}
+      \field{year}{2023}
+    \endentry
+    \entry{ishwaran2008}{article}{}
+      \name{author}{4}{}{%
+        {{hash=87b2e79f8f2ab0a4040e84b52fbe2710}{%
+           family={Ishwaran},
+           familyi={I\bibinitperiod},
+           given={Hemant},
+           giveni={H\bibinitperiod}}}%
+        {{hash=92f6dd777823fa5a8d1d363897767e15}{%
+           family={Kogalur},
+           familyi={K\bibinitperiod},
+           given={Udaya\bibnamedelima B.},
+           giveni={U\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=1460149f56116fb0da52109dbae605c9}{%
+           family={Blackstone},
+           familyi={B\bibinitperiod},
+           given={Eugene\bibnamedelima H.},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=cb1f012de543f3389545279a3a75e0e0}{%
+           family={Lauer},
+           familyi={L\bibinitperiod},
+           given={Michael\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5ed18c6858d0afbb29689256bccf9b0}
+      \strng{fullhash}{ddc0a5f97c2ed352568e00596a350f1a}
+      \strng{bibnamehash}{79dd0381d0a3dfca0fb3ff91c3aee43b}
+      \strng{authorbibnamehash}{79dd0381d0a3dfca0fb3ff91c3aee43b}
+      \strng{authornamehash}{d5ed18c6858d0afbb29689256bccf9b0}
+      \strng{authorfullhash}{ddc0a5f97c2ed352568e00596a350f1a}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Annals of Applied Statistics}
+      \field{number}{3}
+      \field{title}{Random survival forests}
+      \field{volume}{2}
+      \field{year}{2008}
+      \field{pages}{841\bibrangedash 860}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1214/08-AOAS169
+      \endverb
+    \endentry
+    \entry{pollack2023}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=d0a9ff72ff67465c6e1d2c7ea3248e36}{%
+           family={Pollack},
+           familyi={P\bibinitperiod},
+           given={Jonah},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{d35627f2e20a41c6150e8e6cf33d4abd}
+      \strng{fullhash}{d35627f2e20a41c6150e8e6cf33d4abd}
+      \strng{bibnamehash}{d35627f2e20a41c6150e8e6cf33d4abd}
+      \strng{authorbibnamehash}{d35627f2e20a41c6150e8e6cf33d4abd}
+      \strng{authornamehash}{d35627f2e20a41c6150e8e6cf33d4abd}
+      \strng{authorfullhash}{d35627f2e20a41c6150e8e6cf33d4abd}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JTCVS Open}
+      \field{title}{Dynamic prediction modeling of postoperative mortality among patients undergoing surgical aortic valve replacement in a statewide cohort over a 12-year period}
+      \field{volume}{15}
+      \field{year}{2023}
+      \field{pages}{94\bibrangedash 112}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1016/j.xjon.2023.07.011
+      \endverb
+    \endentry
+    \entry{uno2011}{article}{}
+      \name{author}{5}{}{%
+        {{hash=91d5c86eb4a4a77955518b11498c485e}{%
+           family={Uno},
+           familyi={U\bibinitperiod},
+           given={Hajime},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1df414765f32cd3fb95f7ca80bfb5b56}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Tianxi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=fad9da4ee6b865469e215539981390bd}{%
+           family={Pencina},
+           familyi={P\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=039780861d924a453fd40c832a678244}{%
+           family={D'Agostino},
+           familyi={D\bibinitperiod},
+           given={Ralph\bibnamedelima B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=77dbb08d457e7eb3e1e99bec815f47f6}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={L.\bibnamedelimi J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{e22b70ac5f711c34ebeea5ece9b6360b}
+      \strng{fullhash}{7c703b944ac230844840d3a75a71cf50}
+      \strng{bibnamehash}{ff4713dacbbff1f088d84e533c0fe4a1}
+      \strng{authorbibnamehash}{ff4713dacbbff1f088d84e533c0fe4a1}
+      \strng{authornamehash}{e22b70ac5f711c34ebeea5ece9b6360b}
+      \strng{authorfullhash}{7c703b944ac230844840d3a75a71cf50}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Statistics in Medicine}
+      \field{number}{10}
+      \field{title}{On the {C}-statistics for evaluating overall adequacy of risk prediction procedures with censored survival data}
+      \field{volume}{30}
+      \field{year}{2011}
+      \field{pages}{1105\bibrangedash 1117}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1002/sim.4154
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

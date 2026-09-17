@@ -1,6 +1,17 @@
 # Notebooks — Proof-of-Concept Implementation
 
-> This folder is **required** — include your proof-of-concept implementation here.
+## What is here (team addition)
+
+- `km_reconstruct/` — reconstructs individual-patient data from the published SVD curves (Kermen 2022, NOTION 10-year, Wakami 2022) with the Guyot algorithm; 112 validation checks; produces the simulator's calibration targets. See its README.
+- `simulator/` — the literature-calibrated synthetic cohort generator (physics-based latent valve process, four-source echo noise, competing events, three SVD definitions, oracle); `cli.py calibrate | validate | generate`. See its README.
+- `01_generate_and_validate.ipynb` — thin notebook that loads the calibrated parameters, generates the cohort, and displays the calibration and validation reports with figures.
+- `analysis/` — Idea 1 models (landmark discrete-time cause-specific hazard, Cox, comparators), evaluation with valve-level bootstrap, SHAP, oracle-only analyses, and the Idea 2 surveillance-policy simulation; `run_all.py all|explain|policy|oracle|secondary`, `summarise.py`. See its README.
+- `02_features_and_models.ipynb`, `03_surveillance_policy.ipynb` — thin notebooks displaying the analysis outputs.
+- Data: `../data/synthetic/` (CSV + parquet, `data_dictionary.md`).
+
+Environment: `/data/abar/alexenv/bin/python` (numpy, pandas, scipy, matplotlib, lifelines, pyarrow, pytest); `simulator/requirements.txt`.
+
+> This folder is **optional** but evaluated positively if present.
 
 Place your Jupyter notebooks here. A strong submission includes:
 

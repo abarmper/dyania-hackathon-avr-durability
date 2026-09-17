@@ -1,0 +1,8 @@
+numpy>=2.0
+scipy>=1.13
+pandas>=2.2
+matplotlib>=3.8
+pypdf>=4.0
+Pillow>=10
+lifelines>=0.29
+pytest>=8

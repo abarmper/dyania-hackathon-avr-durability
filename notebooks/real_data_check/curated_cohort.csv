@@ -1,0 +1,33 @@
+patient,group,implant_year,approach,valve_model,size_mm,fu_year,fu_mpg,fu_dvi,fu_ar,event,event_year,flags
+Patient_030,primary,2011,SAVR,Trifecta,27,2024,22,0.42,1,1,2024,
+Patient_032,primary,2013,SAVR,Perimount Magna Ease,23,2024,,,2,1,2024,possible PPM; mitral vegetation concern
+Patient_035,primary,2010,SAVR,Epic,27,2018,,,2,1,2018,Biocor mapped to Epic (porcine class)
+Patient_036,primary,2009,SAVR,Epic,25,2024,,,,1,2024,Biocor mapped to Epic; indication for ViV not stated
+Patient_038,primary,2018,SAVR,Perimount Magna Ease,25,2023,,,,1,2023,Perimount 2700 mapped to Perimount class
+Patient_042,primary,2016,SAVR,Trifecta,25,2023,11,,0,1,2023,moderate stenosis managed medically; low flow (EF 40%)
+Patient_044,primary,2010,SAVR,Perimount Magna Ease,25,2023,,,,1,2023,urgent ViV in cardiogenic shock
+Patient_058,primary,2016,SAVR,Trifecta,27,2024,37,0.19,0,1,2024,
+Patient_068,primary,2012,SAVR,Perimount Magna Ease,21,2024,43,0.18,0,1,2024,CE 21 mapped to Perimount class
+Patient_071,primary,2013,SAVR,Mosaic,23,2018,,,,1,2018,Freestyle stentless mapped to porcine class
+Patient_089,primary,2016,SAVR,Trifecta,21,2025,9,0.35,3,1,2025,regurgitant failure
+Patient_001,primary,2022,SAVR,Perimount Magna Ease,25,2024,6,,0,0,,
+Patient_002,primary,2017,TAVR,Sapien 3,29,2018,14,0.39,0,0,,
+Patient_004,primary,2021,TAVR,Sapien 3,26,2026,5,0.72,0,0,,
+Patient_007,primary,2012,SAVR,Perimount Magna Ease,25,2013,14,,0,0,,CE 25 mapped to Perimount class
+Patient_016,primary,2021,TAVR,Sapien 3,26,2022,15,0.37,0,0,,
+Patient_019,primary,2022,TAVR,Sapien 3,26,2026,8,,0,0,,mild paravalvular regurgitation
+Patient_034,primary,2020,TAVR,Sapien 3,23,2026,8,,0,0,,
+Patient_046,primary,2018,TAVR,Sapien 3,26,2020,12,0.40,0,0,,
+Patient_059,primary,2017,SAVR,Perimount Magna Ease,27,2024,15,,0,0,,CE 27 mapped to Perimount class
+Patient_060,primary,2018,TAVR,Sapien 3,26,2019,10,0.60,0,0,,
+Patient_063,primary,2021,TAVR,Sapien 3,26,2022,10,0.52,0,0,,
+Patient_074,primary,2018,TAVR,Sapien 3,29,2022,13,0.53,0,0,,mild periprosthetic AR only
+Patient_082,primary,2016,SAVR,Trifecta,27,2024,6,0.52,0,0,,
+Patient_086,primary,2016,SAVR,Perimount Magna Ease,25,2025,21,0.33,0,0,,no dysfunction documented; CE 25 mapped to Perimount class
+Patient_088,primary,2012,SAVR,Perimount Magna Ease,23,2019,10,,0,0,,
+Patient_101,label_only,,TAVR,Sapien 3,29,2022,9,0.49,0,0,,implant year redacted
+Patient_102,label_only,,SAVR,Trifecta,23,2019,9,0.40,0,0,,implant year redacted
+Patient_106,label_only,,SAVR,Trifecta,23,2024,21,0.36,0,0,,implant year redacted; prior 34/19 mmHg (stable)
+Patient_017,uncertain,2014,SAVR,Trifecta,23,2026,,,2,1,2026,infective endocarditis 2023 preceded the dysfunction
+Patient_048,uncertain,2010,SAVR,Perimount Magna Ease,23,2024,11,,0,1,2024,referred for redo; aortic prosthetic gradient normal; mitral disease
+Patient_053,uncertain,2017,SAVR,Trifecta,19,2018,,,0,1,2018,increased gradients of unclear cause (LVOT acceleration vs valve)

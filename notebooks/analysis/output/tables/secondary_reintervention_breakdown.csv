@@ -1,0 +1,8 @@
+indication,type,urgency,n
+endocarditis,redo,urgent,317
+moderate SVD with symptoms,ViV,elective,44
+moderate SVD with symptoms,redo,elective,160
+severe SVD,ViV,elective,252
+severe SVD,ViV,urgent,296
+severe SVD,redo,elective,313
+severe SVD,redo,urgent,207

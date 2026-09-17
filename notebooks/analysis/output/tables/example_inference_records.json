@@ -1,0 +1,74 @@
+[
+ {
+  "valve_id": 9480,
+  "landmark_t": 0.944,
+  "cif_5y": 0.010535156655165034,
+  "risk_tier": "low",
+  "top3": [
+   {
+    "feature": "approach",
+    "value": 1.0,
+    "shap": -0.6023725704785879
+   },
+   {
+    "feature": "valve_model",
+    "value": 7.0,
+    "shap": -0.18997420883803154
+   },
+   {
+    "feature": "age_at_implant",
+    "value": 76.64639841512275,
+    "shap": -0.1284579548296365
+   }
+  ],
+  "unconfirmed_echo_flag": 0
+ },
+ {
+  "valve_id": 9483,
+  "landmark_t": 9.903,
+  "cif_5y": 0.050653418595175824,
+  "risk_tier": "moderate",
+  "top3": [
+   {
+    "feature": "approach",
+    "value": 1.0,
+    "shap": -0.5465209860022122
+   },
+   {
+    "feature": "delta_mpg",
+    "value": 4.899999999999999,
+    "shap": 0.42075207727870856
+   },
+   {
+    "feature": "landmark_t",
+    "value": 9.903,
+    "shap": 0.26475760320840286
+   }
+  ],
+  "unconfirmed_echo_flag": 0
+ },
+ {
+  "valve_id": 8079,
+  "landmark_t": 8.772,
+  "cif_5y": 0.9117247654762408,
+  "risk_tier": "high",
+  "top3": [
+   {
+    "feature": "stage_now_full",
+    "value": 2.0,
+    "shap": 0.9107523143069632
+   },
+   {
+    "feature": "stage_now_haemo",
+    "value": 2.0,
+    "shap": 0.7141482177484181
+   },
+   {
+    "feature": "delta_mpg",
+    "value": 14.8,
+    "shap": 0.4606530411612102
+   }
+  ],
+  "unconfirmed_echo_flag": 1
+ }
+]

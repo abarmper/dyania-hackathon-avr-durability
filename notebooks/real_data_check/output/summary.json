@@ -1,0 +1,32 @@
+{
+ "patients_in_notes": 117,
+ "primary_cohort": 26,
+ "primary_events": 11,
+ "uncertain": 3,
+ "label_only": 3,
+ "age_imputed_share": 1.0,
+ "bmi_imputed_share": 0.2692307692307692,
+ "baseline_prevalence": {
+  "diabetes": 0.31,
+  "af": 0.58,
+  "ckd": 0.38,
+  "smoking": 0.38
+ },
+ "sex_female_share": 0.11538461538461539,
+ "landmark": {
+  "n": 20,
+  "events": 5,
+  "AUC": 0.9733333333333334,
+  "AUC_lo": 0.8809047619047619,
+  "AUC_hi": 1.0
+ },
+ "landmark_savr_ge5y": {
+  "n": 9,
+  "events": 5,
+  "AUC": 0.9
+ },
+ "landmark_vs_rule": {
+  "AUC_rule_unconfirmed_flag": 0.8666666666666667,
+  "AUC_rule_unconfirmed_flag_savr_ge5y": 0.775
+ }
+}

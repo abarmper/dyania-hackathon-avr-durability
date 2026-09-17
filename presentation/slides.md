@@ -1,72 +1,77 @@
-# Presentation Slide Outline
+# Presentation Slide Content
 
-> **Instructions:** Use this as a guide to build your `slides.pdf` (5–10 slides). Export to PDF and place it in this folder as `slides.pdf`. The outline below maps to the evaluation rubric.
+Outline of the 10 slides. The deck is built by `build_deck.py` (one slide spec, rendered to `slides.pptx` and to `slides.pdf`; charts and schematics in `figures/`).
 
 ---
 
 ## Slide 1 — Title
 
-- Team name
-- Challenge title
-- Team members and roles
-- Date
+- **Knowing when to look again: dynamic SVD risk to personalise echo surveillance after bioprosthetic AVR**
+- Team CardioNTUA — Athanasia Karagiannopoulou (ML Engineer), Anna Panagiotakopoulou (ML Engineer), Evangelie Sintou (Clinician), Alexandros Barmperis (ML Engineer)
+- Dyania Health Hackathon, 17 September 2026
 
 ---
 
-## Slides 2–4 — Problem Framing
+## Slide 2 — The Clinical Problem
 
-**Slide 2: The Clinical Problem**
-- What is structural valve deterioration (SVD) and why does long-term durability matter for AVR patients?
-- How does the SAVR vs. TAVR durability debate compound the uncertainty?
-- Quantify the gap: how late are failing valves currently identified relative to the ideal reintervention window?
+- Bioprosthetic valves deteriorate (structural valve deterioration, SVD); severe SVD at 10 y: 10.0% SAVR vs 1.5% TAVI (NOTION), with the SAVR vs TAVR durability question still open.
+- The label is noisy: 59–65% of first SVD classifications are gone at the next echo (Velders 2024).
+- **The gap:** under annual surveillance, moderate deterioration is confirmed a mean **1.5 y (P90 2.9 y)** after it begins (our calibrated simulation).
 
-**Slide 3: Current Workflow Failure**
-- How is durability risk monitored today (fixed-interval echo surveillance)?
-- Where does the bottleneck occur (irregular follow-up, inter-observer variability, delayed reintervention referral)?
-- What is the cost of the current approach (clinical, financial, patient outcomes)?
+## Slide 3 — Current Workflow Failure
 
-**Slide 4: Our Hypothesis**
-- If we could stratify patients by durability risk earlier using routinely collected echo/registry data, what changes?
-- What is the surveillance optimisation opportunity?
+- Same echo every year for everyone (ESC/EACTS 2025), regardless of valve, age or trajectory.
+- Bottlenecks: missed visits (35% by year 4), echo variability, no confirmation rule, reference echo often absent.
+- Cost: urgent redo surgery mortality 22.6% vs 1.4% elective; unnecessary echoes for low-risk patients; valve-in-valve volume rising.
 
----
+## Slide 4 — Hypothesis
 
-## Slides 5–7 — Proposed Study Design
-
-**Slide 5: Study Overview**
-- Target population (inclusion / exclusion criteria — summary)
-- Primary and secondary endpoints
-- Ground truth definition for structural valve deterioration
-
-**Slide 6: Data Sources**
-- What data sources does your system use?
-- How realistic is access to these data in a clinical deployment?
-- What did you use for the prototype?
-
-**Slide 7: Validation Plan**
-- Train / test strategy, handling of censored follow-up
-- Key evaluation metrics and why they matter clinically
-- Comparator baseline
+- A risk model updated at every echo can lengthen intervals for low-risk valves and shorten them for rising trajectories.
+- Target: ≥25% fewer echoes with ≤3 months extra detection delay, plus earlier confirmation for high-risk valves.
 
 ---
 
-## Slides 8–9 — ML Approach
+## Slide 5 — Study Overview
 
-**Slide 8: Model Architecture**
-- What model(s) did you choose and why (survival model, classifier at fixed horizon, sequence model)?
-- Feature engineering highlights
-- How does the model output map to a clinical action (surveillance interval, reintervention referral)?
+- **Population:** adults with a first bioprosthetic SAVR or TAVR, reference echo or model × size norm, ≥1 follow-up echo; exclude mechanical, Ross, multi-valve, index ViV.
+- **Primary endpoint:** VARC-3 stage ≥2 confirmed on two consecutive echoes, competing death/endocarditis; incidence at 5/8/10 y.
+- **Secondary:** bioprosthetic valve failure, reintervention (elective vs urgent), gradient progression, surveillance performance.
+- **Ground truth:** pathology > SVD reintervention > confirmed VARC-3 > heart-team adjudication; thrombosis, PVL, PPM, endocarditis adjudicated out.
 
-**Slide 9: Results / Proof of Concept**
-- If you ran the model: key performance numbers (time-dependent AUROC, C-index, calibration)
-- SHAP or feature importance summary
-- If prototype only: expected performance range and how you would validate it
+## Slide 6 — Data Sources
+
+- **Deployment:** echo reporting database, STS ACSD, STS/ACC TVT Registry, EHR with NLP, CMS/NDI linkage; target ≥5,000 development and ≥2,000 external valves.
+- **Prototype:** 10,000-valve synthetic cohort calibrated to curves reconstructed from Kermen 2022, NOTION 10-y and Wakami 2022 (112 checks pass), physics from ASE 2024 tables; reproduces label flicker.
+- Figure: `curves_sim_vs_target.png` (simulated vs published curves).
+
+## Slide 7 — Validation Plan
+
+- Valve-level split and bootstrap; the event dated at the confirming echo (no leakage); temporal and external validation in the real study.
+- Metrics: cause-specific time-dependent AUC, C-index, calibration slope, plus decision metrics (echoes, delay).
+- Comparators: time since implant, published risk-factor Cox, registry-only features; guideline, confirmation and de-escalation schedules.
 
 ---
 
-## Slides 10 — Impact and Next Steps
+## Slide 8 — Model
 
-- What does this system enable that isn't possible today?
-- What would validation in a real health system / valve registry require?
-- Immediate next step if given 3 more months
-- One sentence on real-world deployment readiness
+- Discrete-time cause-specific hazard model: gradient boosting over 6-month periods after each echo → risk over any interval.
+- Features: change from reference, smoothed log gradient, slope, current and prior abnormal echoes, EOA/DVI change, expected EOA for model × size, PPM.
+- Output: 5/8/10-y risk, tier, top-3 SHAP features, next-echo interval (longest of 6–36 months with risk ≤1%), unconfirmed-echo flag.
+
+## Slide 9 — Results (synthetic test set)
+
+- Echoes not already abnormal: **AUC 0.875 (0.851–0.899), C 0.855, calibration slope 1.04**; time since implant 0.651.
+- Implant-time model 0.865/0.850/0.823 at 5/8/10 y vs published risk-factor Cox 0.756/0.756/0.771.
+- **Surveillance:** 44% fewer echoes than guideline-plus-confirmation, +0.7 months mean delay; the confirmation echo alone cuts mean delay 1.5 → 1.1 y.
+- Oracle audit: confirmed VARC-3 detects 60% of true moderate deterioration, median lag 1.5 y.
+- Real notes (26 patients, 11 failures): label rule 86% sensitive / 89% specific, false positives from the missing reference echo; model ranks failing valves first (AUC 0.97, same-echo). Face validity only.
+- Figures: `policy_frontier.png`, `shap_summary.png`, `calibration_5y.png`.
+
+---
+
+## Slide 10 — Impact and Next Steps
+
+- Enables: risk-adapted echo scheduling with a confirmation rule, and an audit of SVD definitions against truth that no registry can do.
+- Validation needs: linked echo database + STS/TVT at ≥3 centres; external registry.
+- Next 3 months: run the pipeline on one institution's echo database (same schema), silent-mode prospective evaluation.
+- Readiness: code and schema are registry-shaped; real-world performance is unproven until external validation.

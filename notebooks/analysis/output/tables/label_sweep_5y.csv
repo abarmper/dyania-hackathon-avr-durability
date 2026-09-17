@@ -1,0 +1,7 @@
+label,description,AUC,n_cases
+varc3_conf,"VARC-3 full, stage >=2 confirmed on two consecutive echoes (PRIMARY); known at the confirming echo",0.9244405011435186,817
+varc3_single,"VARC-3 full, single echo",0.9035722957270426,1468
+varc3_haemo_conf,"NOTION haemodynamic variant (gradient/AR only), confirmed",0.9213630613751517,965
+capodanno_conf,"Capodanno 2017, confirmed",0.9353346627036381,700
+dvir_conf,"Dvir 2018, confirmed",0.9357220347685118,596
+oracle,oracle: VARC-3 rule on the noise-free channels at the same visits,0.9137590870927557,1283

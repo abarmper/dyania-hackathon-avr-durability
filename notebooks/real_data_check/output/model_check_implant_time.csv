@@ -1,0 +1,13 @@
+cohort,stratum,model,n,events,harrell_C,C_lo,C_hi
+primary,all,implant-time boosted model (10-y CIF),26,11,0.589041095890411,0.3561491628614916,0.8181818181818182
+primary,all,"cause-specific Cox, full baseline (10-y CIF)",26,11,0.6027397260273972,0.375,0.8444600938967135
+primary,all,"published risk-factor Cox, B4 set (10-y CIF)",26,11,0.5068493150684932,0.1904151404151404,0.8644947233770383
+primary,SAVR only,implant-time boosted model (10-y CIF),17,11,0.5652173913043478,0.3399677419354839,0.7916666666666666
+primary,SAVR only,"cause-specific Cox, full baseline (10-y CIF)",17,11,0.5797101449275363,0.3661568368544601,0.8305790960451974
+primary,SAVR only,"published risk-factor Cox, B4 set (10-y CIF)",17,11,0.4782608695652174,0.15776092774308653,0.8571428571428571
+primary_plus_uncertain,all,implant-time boosted model (10-y CIF),29,14,0.6422764227642277,0.41891106222501573,0.8194940476190473
+primary_plus_uncertain,all,"cause-specific Cox, full baseline (10-y CIF)",29,14,0.6341463414634146,0.41995918367346935,0.8113207547169812
+primary_plus_uncertain,all,"published risk-factor Cox, B4 set (10-y CIF)",29,14,0.5528455284552846,0.30258611467693625,0.7905162659123053
+primary_plus_uncertain,SAVR only,implant-time boosted model (10-y CIF),20,14,0.6,0.3898250055029716,0.781270032051282
+primary_plus_uncertain,SAVR only,"cause-specific Cox, full baseline (10-y CIF)",20,14,0.5909090909090909,0.3998684210526316,0.7641877948113206
+primary_plus_uncertain,SAVR only,"published risk-factor Cox, B4 set (10-y CIF)",20,14,0.5,0.24798811881188118,0.776503267973856
